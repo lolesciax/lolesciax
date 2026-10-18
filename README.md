@@ -1,81 +1,69 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-    <img src="assets/hero-light.svg" alt="Leo Galve — Full-Stack Developer. Thoughtful interfaces. Reliable systems." width="100%">
-  </picture>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-banner-light.svg">
+  <img alt="Leo Lawrence M. Galve — Full-Stack Developer" src="assets/profile-banner-dark.svg" width="100%">
+</picture>
+
+<br>
+
+<h2>Hi, I'm Leo Lawrence M. Galve 👋</h2>
+
+<p><strong>Software developer focused on creating purposeful, accessible, and reliable web and mobile applications.</strong></p>
+
+</div>
+
+## About Me
+
+I am an Information Technology student and full-stack developer who enjoys building software that solves practical problems. My experience includes responsive web interfaces, backend APIs, database-driven applications, and collaborative development.
+
+I focus on clean UI/UX, well-organized code, accessibility, security, and making complex workflows easier to use. I continue learning through hands-on projects involving e-commerce, scholarship management, and interactive 3D experiences.
+
+## Technical Skills
+
+<p>
+  <img alt="React" src="assets/badges/react.svg" height="34">
+  <img alt="JavaScript" src="assets/badges/javascript.svg" height="34">
+  <img alt="Tailwind CSS" src="assets/badges/tailwind.svg" height="34">
+  <img alt="Node.js" src="assets/badges/nodejs.svg" height="34">
+  <img alt="Express" src="assets/badges/express.svg" height="34">
+  <img alt="Flask" src="assets/badges/flask.svg" height="34">
+  <img alt="Python" src="assets/badges/python.svg" height="34">
+  <img alt="Flutter" src="assets/badges/flutter.svg" height="34">
+  <img alt="Dart" src="assets/badges/dart.svg" height="34">
+  <img alt="PostgreSQL" src="assets/badges/postgresql.svg" height="34">
+  <img alt="Supabase" src="assets/badges/supabase.svg" height="34">
+  <img alt="MongoDB" src="assets/badges/mongodb.svg" height="34">
+  <img alt="Three.js" src="assets/badges/threejs.svg" height="34">
+  <img alt="Git" src="assets/badges/git.svg" height="34">
 </p>
 
-<h3 align="center">Hi, I'm Leo 👋</h3>
+## What I Do
 
-<p align="center">
-  <strong>Information Technology student · Full-stack development · UI-focused engineering</strong>
-</p>
+- Develop responsive, user-friendly web interfaces using **React, JavaScript, and Tailwind CSS**.
+- Build backend features and REST APIs with **Node.js, Express, Python, and Flask**.
+- Work with **PostgreSQL, Supabase, and MongoDB** to power data-driven workflows.
+- Collaborate on **mobile applications** using Flutter and Dart.
+- Explore browser-based **3D experiences** with Three.js and React Three Fiber.
+- Apply attention to **accessibility, testing, debugging, security, and documentation**.
 
-<p align="center">
-  I build responsive web experiences and practical software systems, with an interest in clean interfaces, maintainable code, and thoughtful user workflows.
-</p>
+## Featured Projects
 
-<p align="center">
-  <a href="#featured-projects">Featured projects</a> ·
-  <a href="#tech-i-use">Tech I use</a> ·
-  <a href="https://github.com/lolesciax/Portfolio-Professional">My portfolio source</a>
-</p>
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| **[SMaRT-PDM](https://github.com/lolesciax/SMaRT-PDM)** | Team-developed scholarship management and records tracking platform with web, Android, and OCR-assisted document review workflows. | React, Flutter, Node.js, Supabase, PostgreSQL, Python |
+| **[Old Goods Thrift OMS](https://github.com/lolesciax/OMS-REACT)** | E-commerce and order management application with customer and administrative functionality. | React, Flask, MongoDB, Tailwind CSS |
+| **[Portfolio Professional](https://github.com/lolesciax/Portfolio-Professional)** | Responsive personal portfolio with accessible navigation and project showcases. | React, Vite, Tailwind CSS |
+| **[KOBIS](https://github.com/lolesciax/KOBIS)** | Browser-based interactive 3D development project. | React, Three.js, React Three Fiber |
 
----
+## Connect
 
-### About me
+- **GitHub:** [@lolesciax](https://github.com/lolesciax)
+- **Portfolio source:** [Portfolio-Professional](https://github.com/lolesciax/Portfolio-Professional)
 
-- I work across **frontend, backend, databases, and mobile application development**.
-- I care about **accessible interfaces, secure application flows, and consistent design**.
-- My projects include a scholarship platform, an e-commerce system, and 3D web experiments.
-- I enjoy turning complex requirements into experiences that are easier to understand and use.
+<div align="center">
 
-### Featured projects
+**Building with curiosity. Improving with every project.**
 
-#### [SMaRT-PDM](https://github.com/lolesciax/SMaRT-PDM)
-
-A **team-developed** scholarship management platform for web and Android. It supports application processing, role-based workflows, renewals, reports, and OCR-assisted document review.
-
-`React` · `Node.js` · `Flutter` · `PostgreSQL` · `Supabase` · `Python`
-
-#### [Old Goods Thrift OMS](https://github.com/lolesciax/OMS-REACT)
-
-A full-stack e-commerce and order management project with customer and admin workflows, authentication, checkout, and inventory-related features.
-
-`React` · `Tailwind CSS` · `Flask` · `MongoDB`
-
-#### [Portfolio Professional](https://github.com/lolesciax/Portfolio-Professional)
-
-A responsive developer portfolio with accessible navigation, expandable project content, and a design-token-driven interface.
-
-`React` · `Vite` · `Tailwind CSS`
-
-#### [KOBIS](https://github.com/lolesciax/KOBIS)
-
-A React project exploring interactive 3D experiences on the web.
-
-`React` · `Three.js` · `React Three Fiber`
-
-### Tech I use
-
-- **Frontend:** HTML, CSS, JavaScript, React, Vite, Tailwind CSS
-- **Backend:** Node.js, Express, Python, Flask
-- **Data:** PostgreSQL, Supabase, MongoDB
-- **Mobile & 3D:** Flutter, Dart, Three.js, React Three Fiber
-- **Developer workflow:** Git, GitHub, REST APIs, testing, responsive design
-
-### What matters in my work
-
-**Clarity over clutter.** Interfaces should be intuitive and usable on different screen sizes.
-
-**Security by design.** Access controls and data handling should be considered throughout development.
-
-**Maintainable foundations.** Reusable components, well-structured projects, and clear documentation make software easier to improve.
-
----
-
-<p align="center">
-  <strong>Explore the projects above or browse <a href="https://github.com/lolesciax?tab=repositories">all my repositories</a>.</strong>
-</p>
-<p align="center"><em>Always learning. Always building.</em></p>
+</div>
