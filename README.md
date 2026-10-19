@@ -11,6 +11,7 @@ I create responsive interfaces, practical applications, and reliable workflows �
   <img alt="Web &amp; Mobile" src="https://img.shields.io/badge/Web%20%26%20Mobile-0F766E?style=for-the-badge" height="27">
   <a href="https://lawrencegalve.vercel.app"><img alt="Main portfolio" src="https://img.shields.io/badge/Main%20Portfolio-View%20Website-0F766E?style=for-the-badge" height="27"></a>
   <a href="https://leolawrencegalve.vercel.app"><img alt="Windows 11 themed portfolio" src="https://img.shields.io/badge/Windows%2011%20Portfolio-Explore-164E63?style=for-the-badge" height="27"></a>
+  <a href="https://portfolio.laureinzogalve.workers.dev"><img alt="Cloudflare Workers mirror of main portfolio" src="https://img.shields.io/badge/Cloudflare%20Workers-Main%20Portfolio%20Mirror-164E63?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" height="27"></a>
 </p>
 
 
@@ -102,7 +103,13 @@ My primary portfolio for exploring my software projects, skills, and development
 
 Visit Main Portfolio →
 
-Alternative deployment: Open via Cloudflare Workers — the same portfolio, hosted at a second address.
+Also available on Cloudflare Workers (same main portfolio):
+
+<a href="https://portfolio.laureinzogalve.workers.dev"><img alt="Open main portfolio on Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare%20Workers-Open%20Mirror-164E63?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" height="27"></a>
+
+Visit Cloudflare Workers Deployment →
+
+Both links display the same main portfolio, not two different projects.
 02 — Windows 11–Themed Portfolio
 An alternative presentation of my portfolio with a Windows 11–inspired desktop design.
 
@@ -113,6 +120,7 @@ Let's Connect
 <p>
   <a href="https://lawrencegalve.vercel.app"><img alt="Visit main portfolio" src="https://img.shields.io/badge/Main%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" height="27"></a>
   <a href="https://leolawrencegalve.vercel.app"><img alt="Explore Windows 11 themed portfolio" src="https://img.shields.io/badge/Windows%2011%20Portfolio-164E63?style=for-the-badge&amp;logo=windows11&amp;logoColor=white" height="27"></a>
+  <a href="https://portfolio.laureinzogalve.workers.dev"><img alt="Cloudflare Workers main portfolio mirror" src="https://img.shields.io/badge/Cloudflare%20Workers-164E63?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" height="27"></a>
   <a href="mailto:galveleolawrence@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="27"></a>
   <a href="https://github.com/lolesciax"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-102A43?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="27"></a>
 </p>
