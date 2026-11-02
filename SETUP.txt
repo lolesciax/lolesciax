@@ -1,0 +1,48 @@
+GITHUB PROFILE README — NAVY & TEAL EDITION
+==========================================
+GitHub user: https://github.com/lolesciax
+
+WHAT THIS PACKAGE INCLUDES
+--------------------------
+README.md                     complete GitHub profile README
+assets/profile-banner-dark.svg  dark-mode banner
+assets/profile-banner-light.svg light-mode banner
+assets/badges/*.svg            14 matching, self-hosted skill badges
+
+HOW TO PUBLISH
+--------------
+1. Go to https://github.com/new.
+2. Create a PUBLIC repository called EXACTLY: lolesciax
+   (Profile README repositories must match the username exactly.)
+3. Clone the repository. Extract this ZIP straight into the repository root,
+   preserving all file and folder names. Do not create an extra wrapper folder.
+4. Commit README.md and the assets directory to the default branch.
+5. Visit https://github.com/lolesciax to see the README.
+
+If you have already created your lolesciax/lolesciax repository,
+replace the existing README.md and assets with these new files instead.
+
+SUGGESTED LEFT SIDEBAR PROFILE FIELDS
+-------------------------------------
+Display name: Leo Galve
+Bio: Full-Stack Developer • React • Flask • Flutter | Building thoughtful digital solutions
+Website: Your published portfolio site, if you have one
+Location: Optional
+
+GitHub -> Profile -> Edit profile manages these details. The README cannot
+change your sidebar picture, follower count, or social profile fields.
+
+SUGGESTED PINNED REPOSITORIES
+-----------------------------
+SMaRT-PDM, OMS-REACT, Portfolio-Professional, KOBIS.
+(For KOBIS, improve its default Vite README before prominently featuring it.)
+
+QUALITY NOTES
+-------------
+- The banner has separate light/dark assets, selected by GitHub theme.
+- Tech badges are local SVGs, not remote network assets.
+- SVG files have text alternatives; all hyperlinks are plain GitHub URLs.
+- No fabricated follower counts, contribution numbers, or GitHub statistics.
+- No personal email or credentials are embedded in this README.
+- SMaRT-PDM is accurately described as a team-developed project.
+- No live GitHub content was changed by building this package.

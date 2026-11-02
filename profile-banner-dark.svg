@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="238" viewBox="0 0 1280 238" role="img" aria-labelledby="title desc">
+  <title id="title">Leo Lawrence M. Galve — Full-Stack Developer</title>
+  <desc id="desc">Navy blue and teal GitHub profile banner with a centered name and software developer title.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#0B1E36"/><stop offset="61%" stop-color="#153C60"/><stop offset="100%" stop-color="#076F78"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#41D5C1" stop-opacity="0.05"/><stop offset="52%" stop-color="#41D5C1" stop-opacity="1"/><stop offset="100%" stop-color="#41D5C1" stop-opacity=".05"/></linearGradient>
+  </defs>
+  <rect width="1280" height="238" rx="3" fill="url(#bg)"/>
+  <g opacity=".14" stroke="#DAFFFF" stroke-width="1">
+    <path d="M40 0V238M90 0V238M140 0V238M190 0V238M240 0V238M290 0V238M340 0V238M390 0V238M440 0V238M490 0V238M540 0V238M590 0V238M640 0V238M690 0V238M740 0V238M790 0V238M840 0V238M890 0V238M940 0V238M990 0V238M1040 0V238M1090 0V238M1140 0V238M1190 0V238M1240 0V238"/>
+    <path d="M0 42H1280M0 92H1280M0 142H1280M0 192H1280"/>
+  </g>
+  <path d="M0 197 C260 207 410 217 630 218 C850 217 1040 195 1280 197 L1280 238 L0 238Z" fill="#0B1D36" opacity=".58"/>
+  <path d="M0 217 C290 205 560 230 780 222 C970 217 1120 212 1280 228 L1280 238 L0 238Z" fill="#0C2944" opacity=".88"/>
+  <path d="M0 230 Q320 214 600 232 T1280 229 V238 H0Z" fill="#09243B" opacity=".76"/>
+  <rect x="415" y="50" width="450" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="640" y="123" text-anchor="middle" fill="#DFFAFB" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="57" letter-spacing="-.9">Leo Lawrence M. Galve</text>
+  <text x="640" y="163" text-anchor="middle" fill="#C1E4EF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600">Full-Stack Developer  |  Web &amp; Mobile Development</text>
+  <circle cx="55" cy="55" r="6" fill="#41D5C1" opacity=".7"/><circle cx="76" cy="55" r="6" fill="#41D5C1" opacity=".28"/>
+  <rect x="1152" y="36" width="70" height="28" rx="14" stroke="#41D5C1" stroke-opacity=".8" fill="none"/>
+  <text x="1187" y="55" text-anchor="middle" fill="#DFFAFB" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">LG</text>
+</svg>

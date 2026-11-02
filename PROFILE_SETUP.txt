@@ -1,0 +1,63 @@
+GITHUB PROFILE SETUP — @lolesciax
+=================================
+
+These are ready-to-upload profile README files. No existing repository was modified.
+
+1. At https://github.com/new create a PUBLIC repository named exactly:
+   lolesciax
+
+   GitHub only displays a profile README if the public repository name
+   exactly matches the account name and contains README.md at its root.
+
+2. Clone that newly created repository onto your computer.
+
+3. Extract this ZIP directly into the cloned repository root. Keep:
+   README.md
+   assets/hero-light.svg
+   assets/hero-dark.svg
+
+4. From the cloned repository directory, run:
+   git add README.md assets/hero-light.svg assets/hero-dark.svg
+   git commit -m "docs: add developer profile README"
+   git push origin main
+
+   If you initialized the new repository with README.md, replace that existing
+   file with the provided README.md before running git add.
+
+5. Open https://github.com/lolesciax to verify the README and its
+   light/dark themed banner appear on your main profile page.
+
+SUGGESTED GITHUB PROFILE FIELDS (Edit profile)
+----------------------------------------------
+Display name: Leo Galve
+Bio: Full-stack developer | React, Node.js & Flask | Building thoughtful web experiences
+Website: Add your own deployed portfolio URL when it is ready.
+Location: Optional. You do not need to share a precise location or email.
+
+SUGGESTED PINNED REPOSITORIES
+-----------------------------
+1. SMaRT-PDM
+2. OMS-REACT
+3. Portfolio-Professional
+4. KOBIS (after replacing its default Vite README with a project description)
+
+ADDITIONAL REPOSITORY CLEANUP RECOMMENDATIONS
+----------------------------------------------
+- KOBIS currently displays the starter React + Vite README. Replace it
+  with a project-specific overview and screenshots before highlighting heavily.
+- MachineProblem and UnityGame are currently empty public repositories.
+  Leave them as-is if planned; consider unpinning them or adding descriptions
+  if they are meant to be part of a professional portfolio.
+- Do not put tokens, passwords, service-role keys, or environment files
+  into public READMEs, examples, screenshots, or repository commits.
+- Keep private email addresses and personal contact details optional.
+
+FILES:
+  README.md                 profile content
+  assets/hero-dark.svg      GitHub dark appearance banner
+  assets/hero-light.svg     GitHub light appearance banner
+  PROFILE_SETUP.txt         these instructions
+
+NOTE: GitHub does not automatically create a profile repository, and the
+currently connected GitHub integration cannot create one. This package
+therefore does not change your live account.
