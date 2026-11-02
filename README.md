@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:102A43,50:164E63,100:0F766E&amp;height=235&amp;section=header&amp;text=Leo%20Lawrence%20M.%20Galve&amp;fontSize=38&amp;fontColor=FFFFFF&amp;fontAlignY=40&amp;desc=Full-Stack%20Developer%20%7C%20Web%20and%20Mobile%20Development&amp;descAlignY=62&amp;descSize=18" alt="Leo Lawrence M. Galve — Full-Stack Developer; navy blue and teal banner" width="100%">
 
-### Hi, I'm Leo Lawrence M. Galve 👋
+### Hi, I'm Leo 👋
 
 **Information Technology student · Full-Stack Developer · UI/UX-focused builder**
 
-I create responsive interfaces, practical applications, and reliable workflows — from frontend experiences to APIs and data-driven systems.
+I build web and mobile applications that make everyday workflows easier — from responsive interfaces to APIs and database integration.
 
 <p>
   <img alt="Full-Stack" src="https://img.shields.io/badge/Full-Stack-164E63?style=for-the-badge" height="27">
@@ -22,13 +22,13 @@ I create responsive interfaces, practical applications, and reliable workflows �
 
 ## About Me
 
-I'm an Information Technology student with a strong interest in building software that's useful, accessible, and easy to maintain. I enjoy working across the development process: designing clean interfaces, implementing application logic, connecting databases, and refining real-world workflows.
+I'm an Information Technology student who enjoys turning real-world processes into useful software. I work across the stack: designing interfaces, writing application logic, connecting databases, and refining how everything works together.
 
-My projects have taken me from full-stack e-commerce to a team-developed scholarship platform with web, Android, and OCR-assisted processes.
+My projects span e-commerce, scholarship management, and interactive 3D experiences. I care about the details that help people use an application with confidence: clear navigation, consistent interfaces, and reliable data flows.
 
 - **My focus:** responsive UI/UX, reliable backend systems, and clear user workflows
 - **My approach:** thoughtful design, reusable code, security awareness, and continuous improvement
-- **Portfolio work:** showcasing my work through two portfolio experiences — a main website and a Windows 11–inspired interface
+- **Creative exploration:** desktop-inspired portfolio experiences and browser-based 3D
 
 ## Tech Stack
 
@@ -72,11 +72,9 @@ My projects have taken me from full-stack e-commerce to a team-developed scholar
 
 ## What I Do
 
-- **Frontend development:** responsive, accessible interfaces and consistent UI components
-- **Backend development:** application logic, REST APIs, authentication flows, and server-side validation
-- **Database integration:** structured data, connected workflows, and application state
-- **Cross-platform collaboration:** Android applications and browser-based 3D experiences
-- **Software quality:** debugging, documentation, maintainability, and practical security considerations
+- **Build interfaces:** responsive layouts, accessible interactions, and reusable UI components.
+- **Connect systems:** REST APIs, authentication flows, server-side validation, and database integration.
+- **Refine the experience:** debug issues, simplify workflows, and document code so it is easier to maintain.
 
 ## Featured Projects
 
@@ -84,7 +82,11 @@ My projects have taken me from full-stack e-commerce to a team-developed scholar
 
 **Scholarship Management and Records Tracking**
 
-A team-developed scholarship platform for the Office for Scholarship and Financial Assistance at Pambayang Dalubhasaan ng Marilao. The system supports scholarship applications, scholar monitoring and renewals, role-based administrative workflows, reporting, and OCR-assisted document review across web and Android interfaces.
+A team-developed web and Android platform for the Office for Scholarship and Financial Assistance at Pambayang Dalubhasaan ng Marilao.
+
+- Scholarship applications, scholar monitoring, and renewals
+- Role-based administrative workflows and reporting
+- OCR-assisted document review
 
 **Stack:** React · Node.js · Express · Flutter · PostgreSQL · Supabase · Python · Tesseract OCR
 
@@ -92,7 +94,11 @@ A team-developed scholarship platform for the Office for Scholarship and Financi
 
 **Full-Stack E-commerce & Order Management**
 
-An online secondhand clothing store project with a React storefront and administrative workspace. Includes product browsing, favorites, shopping carts, checkout-related workflows, inventory management, orders, and discounts.
+A full-stack secondhand clothing store with a React storefront and an administrative workspace.
+
+- Product browsing, favorites, and shopping carts
+- Checkout workflows and order management
+- Inventory and discount management
 
 **Stack:** React · Vite · Tailwind CSS · Python · Flask · MongoDB
 
@@ -100,17 +106,13 @@ An online secondhand clothing store project with a React storefront and administ
 
 **Exploring Interactive 3D Web Development**
 
-A React project using Three.js and React Three Fiber to experiment with 3D experiences in the browser.
+An exploration of interactive 3D experiences in the browser, built with React, Three.js, and React Three Fiber.
 
 **Stack:** React · Three.js · React Three Fiber
 
-## Career Objective
-
-I'm interested in opportunities to contribute to meaningful software projects, collaborate with developers, and continue growing in full-stack and web development. I bring a practical, UI-focused mindset and enjoy improving how systems work for the people who use them.
-
 ## My Portfolios
 
-I have two different portfolio experiences, each presenting my work in its own style.
+Explore my work through two different interfaces.
 
 ### 01 — Main Portfolio
 
@@ -129,6 +131,8 @@ An alternative presentation of my portfolio with a Windows 11–inspired desktop
 <div align="center">
 
 ## Let's Connect
+
+I'm interested in opportunities to contribute to useful software, collaborate with developers, and grow in full-stack development.
 
 <p>
   <a href="https://lawrencegalve.vercel.app"><img alt="Visit main portfolio" src="https://img.shields.io/badge/Main%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" height="27"></a>
