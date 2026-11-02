@@ -1,101 +1,147 @@
-﻿<div align="center">
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-banner-light.svg">
-  <img src="./profile-banner-light.svg" alt="Leo Lawrence M. Galve — Full-Stack Developer, Web and Mobile Development" width="100%">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:102A43,50:164E63,100:0F766E&amp;height=235&amp;section=header&amp;text=Leo%20Lawrence%20M.%20Galve&amp;fontSize=38&amp;fontColor=FFFFFF&amp;fontAlignY=40&amp;desc=Full-Stack%20Developer%20%7C%20Web%20and%20Mobile%20Development&amp;descAlignY=62&amp;descSize=18" alt="Leo Lawrence M. Galve — Full-Stack Developer; navy blue and teal banner" width="100%">
 
-### Hi, I'm Leo 👋
+### Hi, I'm Leo Lawrence M. Galve 👋
 
-**Information Technology student · Full-stack developer · UI/UX-focused builder**
+**Information Technology student · Full-Stack Developer · UI/UX-focused builder**
 
-I build web and mobile applications that connect clear interfaces with practical workflows.
+I create responsive interfaces, practical applications, and reliable workflows — from frontend experiences to APIs and data-driven systems.
 
-**[View my portfolio](https://lawrencegalve.vercel.app)** · [Explore my Windows 11 portfolio](https://leolawrencegalve.vercel.app) · [Email me](mailto:galveleolawrence@gmail.com)
+<p>
+  <img alt="Full-Stack" src="https://img.shields.io/badge/Full-Stack-164E63?style=for-the-badge" height="27">
+  <img alt="Web &amp; Mobile" src="https://img.shields.io/badge/Web%20%26%20Mobile-0F766E?style=for-the-badge" height="27">
+  <a href="https://lawrencegalve.vercel.app"><img alt="Main portfolio" src="https://img.shields.io/badge/Main%20Portfolio-View%20Website-0F766E?style=for-the-badge" height="27"></a>
+  <a href="https://leolawrencegalve.vercel.app"><img alt="Windows 11 themed portfolio" src="https://img.shields.io/badge/Windows%2011%20Portfolio-Explore-164E63?style=for-the-badge" height="27"></a>
+  <a href="https://portfolio.laureinzogalve.workers.dev"><img alt="Cloudflare Workers mirror of main portfolio" src="https://img.shields.io/badge/Cloudflare%20Workers-Main%20Portfolio%20Mirror-164E63?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" height="27"></a>
+</p>
 
-[About](#about-me) · [Projects](#selected-projects) · [Tech stack](#tech-stack) · [Connect](#lets-connect)
+[About Me](#about-me) · [Tech Stack](#tech-stack) · [Featured Projects](#featured-projects) · [My Portfolios](#my-portfolios) · [Contact](#lets-connect)
 
 </div>
 
-## About me
+## About Me
 
-I enjoy turning everyday processes into software that's useful and easy to navigate. My work spans interface design, application logic, APIs, and database integration, with a focus on responsive layouts and maintainable code.
+I'm an Information Technology student with a strong interest in building software that's useful, accessible, and easy to maintain. I enjoy working across the development process: designing clean interfaces, implementing application logic, connecting databases, and refining real-world workflows.
 
-I've worked on a full-stack thrift store, collaborated on a scholarship management platform for web and Android, and explored interactive 3D experiences in the browser.
+My projects have taken me from full-stack e-commerce to a team-developed scholarship platform with web, Android, and OCR-assisted processes.
 
-- **What I care about:** accessible interfaces, reusable components, and clear user workflows.
-- **How I work:** design thoughtfully, build iteratively, and improve through debugging and feedback.
-- **Where I'm headed:** growing in full-stack development and contributing to meaningful software projects with a team.
+- **My focus:** responsive UI/UX, reliable backend systems, and clear user workflows
+- **My approach:** thoughtful design, reusable code, security awareness, and continuous improvement
+- **Portfolio work:** showcasing my work through two portfolio experiences — a main website and a Windows 11–inspired interface
 
-## Selected projects
+## Tech Stack
 
-### 01 / SMaRT-PDM
+### Frontend & UI
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-0F766E?style=for-the-badge&amp;logo=react&amp;logoColor=white" height="27">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0F766E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" height="27">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0F766E?style=for-the-badge&amp;logo=html5&amp;logoColor=white" height="27">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-0F766E?style=for-the-badge&amp;logo=css3&amp;logoColor=white" height="27">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0F766E?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" height="27">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-0F766E?style=for-the-badge&amp;logo=vite&amp;logoColor=white" height="27">
+</p>
+
+### Backend & APIs
+
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-164E63?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" height="27">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-164E63?style=for-the-badge&amp;logo=express&amp;logoColor=white" height="27">
+  <img alt="Python" src="https://img.shields.io/badge/Python-164E63?style=for-the-badge&amp;logo=python&amp;logoColor=white" height="27">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-164E63?style=for-the-badge&amp;logo=flask&amp;logoColor=white" height="27">
+</p>
+
+### Databases & Services
+
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0F766E?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" height="27">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-0F766E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" height="27">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-0F766E?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" height="27">
+</p>
+
+### Mobile, 3D & Workflow
+
+<p>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-164E63?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" height="27">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-164E63?style=for-the-badge&amp;logo=dart&amp;logoColor=white" height="27">
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-164E63?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=white" height="27">
+  <img alt="Git" src="https://img.shields.io/badge/Git-164E63?style=for-the-badge&amp;logo=git&amp;logoColor=white" height="27">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-164E63?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="27">
+</p>
+
+## What I Do
+
+- **Frontend development:** responsive, accessible interfaces and consistent UI components
+- **Backend development:** application logic, REST APIs, authentication flows, and server-side validation
+- **Database integration:** structured data, connected workflows, and application state
+- **Cross-platform collaboration:** Android applications and browser-based 3D experiences
+- **Software quality:** debugging, documentation, maintainability, and practical security considerations
+
+## Featured Projects
+
+### 01 — SMaRT-PDM
 
 **Scholarship Management and Records Tracking**
 
-A team-developed platform for the Office for Scholarship and Financial Assistance at Pambayang Dalubhasaan ng Marilao. It supports scholarship applications, scholar monitoring and renewals, administrative workflows, reporting, and OCR-assisted document review across web and Android interfaces.
+A team-developed scholarship platform for the Office for Scholarship and Financial Assistance at Pambayang Dalubhasaan ng Marilao. The system supports scholarship applications, scholar monitoring and renewals, role-based administrative workflows, reporting, and OCR-assisted document review across web and Android interfaces.
 
-**Built with:** React, Node.js, Express, Flutter, PostgreSQL, Supabase, Python, and Tesseract OCR.
+**Stack:** React · Node.js · Express · Flutter · PostgreSQL · Supabase · Python · Tesseract OCR
 
-[Explore the repository →](https://github.com/lolesciax/SMaRT-PDM)
+### 02 — Old Goods Thrift OMS
 
-### 02 / Old Goods Thrift OMS
+**Full-Stack E-commerce & Order Management**
 
-**E-commerce and order management**
+An online secondhand clothing store project with a React storefront and administrative workspace. Includes product browsing, favorites, shopping carts, checkout-related workflows, inventory management, orders, and discounts.
 
-A secondhand clothing store project with a React storefront and an administrative workspace. Features include product browsing, favorites, shopping carts, checkout workflows, inventory management, orders, and discounts.
+**Stack:** React · Vite · Tailwind CSS · Python · Flask · MongoDB
 
-**Built with:** React, Vite, Tailwind CSS, Python, Flask, and MongoDB.
+### 03 — KOBIS
 
-[Explore the repository →](https://github.com/lolesciax/OMS-REACT)
+**Exploring Interactive 3D Web Development**
 
-### 03 / KOBIS
+A React project using Three.js and React Three Fiber to experiment with 3D experiences in the browser.
 
-**Interactive 3D web development**
+**Stack:** React · Three.js · React Three Fiber
 
-A React project exploring 3D experiences in the browser with Three.js and React Three Fiber.
+## Career Objective
 
-**Built with:** React, Three.js, and React Three Fiber.
+I'm interested in opportunities to contribute to meaningful software projects, collaborate with developers, and continue growing in full-stack and web development. I bring a practical, UI-focused mindset and enjoy improving how systems work for the people who use them.
 
-[Explore the repository →](https://github.com/lolesciax/KOBIS)
+## My Portfolios
 
-## Tech stack
+I have two different portfolio experiences, each presenting my work in its own style.
 
-<p>
-  <img src="./react.svg" alt="React" height="28">
-  <img src="./javascript.svg" alt="JavaScript" height="28">
-  <img src="./nodejs.svg" alt="Node.js" height="28">
-  <img src="./python.svg" alt="Python" height="28">
-  <img src="./flutter.svg" alt="Flutter" height="28">
-  <img src="./postgresql.svg" alt="PostgreSQL" height="28">
-</p>
+### 01 — Main Portfolio
 
-| Area | Technologies |
-| :--- | :--- |
-| Frontend | React, JavaScript, HTML, CSS, Tailwind CSS, Vite |
-| Backend & APIs | Node.js, Express, Python, Flask |
-| Databases & services | PostgreSQL, Supabase, MongoDB |
-| Mobile | Flutter, Dart |
-| 3D & workflow | Three.js, React Three Fiber, Git, GitHub |
+My primary portfolio for exploring my software projects, skills, and development work.
 
-## Two ways to explore my work
+[Visit Main Portfolio →](https://lawrencegalve.vercel.app)
 
-| Portfolio | What you'll find |
-| :--- | :--- |
-| [Main portfolio](https://lawrencegalve.vercel.app) | My projects, skills, and development work in a focused presentation. |
-| [Windows 11 portfolio](https://leolawrencegalve.vercel.app) | An alternative portfolio experience inspired by the Windows 11 desktop. |
+Also available on [Cloudflare Workers](https://portfolio.laureinzogalve.workers.dev) as a mirror of the same main portfolio.
 
-The main portfolio is also available through a [Cloudflare Workers mirror](https://portfolio.laureinzogalve.workers.dev).
+### 02 — Windows 11–Themed Portfolio
 
-## Let's connect
+An alternative presentation of my portfolio with a Windows 11–inspired desktop design.
 
-I'm interested in opportunities to build useful software, collaborate with other developers, and keep learning through hands-on work.
-
-**[Send me an email](mailto:galveleolawrence@gmail.com)** · [Browse all repositories](https://github.com/lolesciax?tab=repositories)
+[Explore Windows 11 Portfolio →](https://leolawrencegalve.vercel.app)
 
 <div align="center">
 
-<sub>Thoughtful interfaces. Practical systems. Always learning.</sub>
+## Let's Connect
+
+<p>
+  <a href="https://lawrencegalve.vercel.app"><img alt="Visit main portfolio" src="https://img.shields.io/badge/Main%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" height="27"></a>
+  <a href="https://leolawrencegalve.vercel.app"><img alt="Explore Windows 11 themed portfolio" src="https://img.shields.io/badge/Windows%2011%20Portfolio-164E63?style=for-the-badge&amp;logo=windows11&amp;logoColor=white" height="27"></a>
+  <a href="https://portfolio.laureinzogalve.workers.dev"><img alt="Cloudflare Workers main portfolio mirror" src="https://img.shields.io/badge/Cloudflare%20Workers-164E63?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" height="27"></a>
+  <a href="mailto:galveleolawrence@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="27"></a>
+  <a href="https://github.com/lolesciax"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-102A43?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="27"></a>
+</p>
+
+[galveleolawrence@gmail.com](mailto:galveleolawrence@gmail.com)
+
+*Building with purpose. Learning through every project.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:102A43,50:164E63,100:0F766E&amp;height=100&amp;section=footer" alt="Navy blue and teal wave footer" width="100%">
 
 </div>
