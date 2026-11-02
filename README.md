@@ -37,6 +37,7 @@ My projects span e-commerce, scholarship management, and interactive 3D experien
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-0F766E?style=for-the-badge&amp;logo=react&amp;logoColor=white" height="27">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0F766E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" height="27">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0F766E?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" height="27">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0F766E?style=for-the-badge&amp;logo=html5&amp;logoColor=white" height="27">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-0F766E?style=for-the-badge&amp;logo=css3&amp;logoColor=white" height="27">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0F766E?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" height="27">
@@ -78,37 +79,15 @@ My projects span e-commerce, scholarship management, and interactive 3D experien
 
 ## Featured Projects
 
-### 01 — SMaRT-PDM
+**Scholarship Management and Records Tracking** — a team-developed project for the Office for Scholarship and Financial Assistance at Pambayang Dalubhasaan ng Marilao.
 
-**Scholarship Management and Records Tracking**
+### 01 — SMaRT-PDM Web
 
-A team-developed web and Android platform for the Office for Scholarship and Financial Assistance at Pambayang Dalubhasaan ng Marilao.
+A scholarship management website that brings applications, scholar records, and renewals into one place. It helps the scholarship office review documents, monitor scholars, and prepare reports with less manual work.
 
-- Scholarship applications, scholar monitoring, and renewals
-- Role-based administrative workflows and reporting
-- OCR-assisted document review
+### 02 — SMaRT-PDM App
 
-**Stack:** React · Node.js · Express · Flutter · PostgreSQL · Supabase · Python · Tesseract OCR
-
-### 02 — Old Goods Thrift OMS
-
-**Full-Stack E-commerce & Order Management**
-
-A full-stack secondhand clothing store with a React storefront and an administrative workspace.
-
-- Product browsing, favorites, and shopping carts
-- Checkout workflows and order management
-- Inventory and discount management
-
-**Stack:** React · Vite · Tailwind CSS · Python · Flask · MongoDB
-
-### 03 — KOBIS
-
-**Exploring Interactive 3D Web Development**
-
-An exploration of interactive 3D experiences in the browser, built with React, Three.js, and React Three Fiber.
-
-**Stack:** React · Three.js · React Three Fiber
+The Android companion to SMaRT-PDM, bringing scholarship applications and renewal processes to mobile. It gives students a more convenient way to take part in the scholarship process from their phones.
 
 ## My Portfolios
 
