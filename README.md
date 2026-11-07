@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:102A43,50:164E63,100:0F766E&amp;height=235&amp;section=header&amp;text=Leo%20Lawrence%20M.%20Galve&amp;fontSize=38&amp;fontColor=FFFFFF&amp;fontAlignY=40&amp;desc=Full-Stack%20Developer%20%7C%20Web%20and%20Mobile%20Development&amp;descAlignY=62&amp;descSize=18" alt="Leo Lawrence M. Galve — Full-Stack Developer; navy blue and teal banner" width="100%">
 
-### Hi, I'm Leo 👋
+### Hi, I'm Leo Lawrence Galve 👋
 
 **Information Technology student · Full-Stack Developer · UI/UX-focused builder**
 
