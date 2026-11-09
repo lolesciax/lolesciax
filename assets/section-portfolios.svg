@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-labelledby="title desc">
+  <title id="title">Two ways to explore</title>
+  <desc id="desc">One developer. Different experiences.</desc>
+  <defs><linearGradient id="edge"><stop stop-color="#737373"/><stop offset="1" stop-color="#222222"/></linearGradient><clipPath id="clip"><rect width="1200" height="96" rx="12"/></clipPath></defs>
+  <style>.light{animation:pass 9s ease-in-out infinite}@keyframes pass{0%,20%{transform:translateX(0);opacity:0}35%,65%{opacity:.8}85%,100%{transform:translateX(1000px);opacity:0}}@media(max-width:600px){.detail{display:none}.heading{font-size:42px}}@media(prefers-reduced-motion:reduce){.light{animation:none}}</style>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="96" fill="#101010"/>
+    <path d="M0 95H1200" stroke="url(#edge)"/>
+    <rect class="light" x="80" y="94" width="100" height="2" rx="1" fill="#D4D4D4"/>
+    <g transform="translate(20 8)" fill="none" stroke="#B8B8B8" stroke-width="1.6" stroke-linejoin="round"><path d="M8 24H48V50H8ZM21 59H35M28 50V59M8 32H48"/></g>
+    <text class="heading" x="94" y="58" fill="#EEEEEE" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600" letter-spacing="-.6">Two ways to explore</text>
+    <text class="detail" x="1158" y="56" text-anchor="end" fill="#929292" font-family="Arial, Helvetica, sans-serif" font-size="18">One developer. Different experiences.</text>
+  </g>
+</svg>

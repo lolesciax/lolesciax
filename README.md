@@ -18,7 +18,7 @@ Web & mobile development, with an eye for the details.
 
 <br>
 
-## About
+<h2><a name="about"></a><img src="./assets/section-about.svg" alt="Behind the build — About me" width="100%"></h2>
 
 I'm **Leo Lawrence M. Galve**, an Information Technology student and full-stack
 developer. I turn everyday workflows into thoughtful web and mobile experiences.
@@ -29,7 +29,7 @@ I also explore desktop-inspired interfaces and interactive 3D on the web.
 
 <br>
 
-## Tech stack
+<h2><a name="tech-stack"></a><img src="./assets/section-stack.svg" alt="The toolkit — Tech stack" width="100%"></h2>
 
 <sub>Interfaces & experiences</sub>
 
@@ -67,7 +67,7 @@ I also explore desktop-inspired interfaces and interactive 3D on the web.
 
 <br>
 
-## Selected work
+<h2><a name="selected-work"></a><img src="./assets/section-work.svg" alt="Selected work" width="100%"></h2>
 
 **SMaRT-PDM** · Scholarship Management and Records Tracking<br>
 <sub>A team project for the Office for Scholarship and Financial Assistance at Pambayang Dalubhasaan ng Marilao.</sub>
@@ -91,7 +91,7 @@ I also explore desktop-inspired interfaces and interactive 3D on the web.
 
 <br>
 
-## Beyond the code
+<h2><a name="beyond-the-code"></a><img src="./assets/section-portfolios.svg" alt="Two ways to explore — Portfolios" width="100%"></h2>
 
 <table>
   <tr>
@@ -125,6 +125,6 @@ Open to collaboration, fresh ideas, and opportunities to grow.
 
 <br>
 
-<img src="./profile-footer.svg" alt="Built with purpose. Refined with care." width="100%">
+<img src="./profile-footer.svg" alt="Good ideas deserve thoughtful execution. Built with purpose. Refined with care." width="100%">
 
 </div>

@@ -1,7 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="title">
-  <title id="title">Built with purpose. Refined with care.</title>
-  <path d="M0 32C220 80 400 0 640 30S1000 75 1200 20V120H0Z" fill="#303030"/>
-  <path d="M0 48C240 100 420 14 700 48S1000 80 1200 36V120H0Z" fill="#171717"/>
-  <path d="M0 48C240 100 420 14 700 48S1000 80 1200 36" fill="none" stroke="#737373" stroke-opacity=".4"/>
-  <text x="600" y="96" text-anchor="middle" fill="#B8B8B8" font-family="Arial, Helvetica, sans-serif" font-size="18">Built with purpose. Refined with care.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Good ideas deserve thoughtful execution.</title>
+  <desc id="desc">Animated silver horizon and drifting orbital light over a black footer. Built with purpose. Refined with care.</desc>
+  <defs>
+    <radialGradient id="halo"><stop stop-color="#FFFFFF" stop-opacity=".15"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
+    <linearGradient id="line"><stop stop-color="#292929"/><stop offset=".5" stop-color="#B8B8B8"/><stop offset="1" stop-color="#292929"/></linearGradient>
+    <clipPath id="clip"><rect width="1200" height="230" rx="20"/></clipPath>
+  </defs>
+  <style>
+    .horizon { animation: drift 10s ease-in-out infinite; }
+    .light { animation: glow 6s ease-in-out infinite; }
+    .spark { animation: travel 12s ease-in-out infinite; }
+    @keyframes drift { 0%,100% { transform:translateY(0); } 50% { transform:translateY(8px); } }
+    @keyframes glow { 0%,100% { opacity:.4; } 50% { opacity:1; } }
+    @keyframes travel { 0% { transform:translateX(0); opacity:0; } 15%,85% { opacity:1; } 100% { transform:translateX(720px); opacity:0; } }
+    @media (max-width:600px) { .headline { font-size:37px; } }
+    @media (prefers-reduced-motion:reduce) { .horizon,.light,.spark { animation:none; } }
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="230" fill="#0A0A0A"/>
+    <ellipse class="light" cx="600" cy="0" rx="470" ry="170" fill="url(#halo)"/>
+    <g class="horizon" fill="none"><path d="M-40 55Q260 -22 600 42T1240 42" stroke="#3D3D3D"/><path d="M-40 66Q260 -11 600 53T1240 53" stroke="url(#line)"/><path d="M-40 78Q260 1 600 65T1240 65" stroke="#252525"/></g>
+    <rect class="spark" x="240" y="31" width="80" height="1" fill="#D4D4D4"/>
+    <text class="headline" x="600" y="127" text-anchor="middle" fill="#E5E5E5" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600" letter-spacing="-.6">Good ideas deserve thoughtful execution.</text>
+    <text x="600" y="164" text-anchor="middle" fill="#A3A3A3" font-family="Arial, Helvetica, sans-serif" font-size="18">Built with purpose. Refined with care.</text>
+    <text x="600" y="204" text-anchor="middle" fill="#808080" font-family="Consolas, monospace" font-size="13">&lt; / &gt;  @lolesciax</text>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="229" rx="20" fill="none" stroke="#303030"/>
 </svg>
