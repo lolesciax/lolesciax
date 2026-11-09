@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="34" viewBox="0 0 128 34" role="img" aria-labelledby="title">
   <title id="title">Portfolio</title>
-  <rect x=".5" y=".5" width="127" height="33" rx="7" fill="#E5E5E5" stroke="#F0F0F0"/>
+  <defs><linearGradient id="surface" x2="0" y2="1"><stop stop-color="#F0F0F0"/><stop offset="1" stop-color="#CECECE"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="127" height="33" rx="7" fill="url(#surface)" stroke="#E5E5E5"/>
   <g fill="none" stroke="#202020" stroke-width="1.2" stroke-linejoin="round"><rect x="14" y="10" width="16" height="14" rx="2"/><path d="M14 14H30"/></g>
   <text x="40" y="21.5" fill="#171717" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">Portfolio</text>
 </svg>

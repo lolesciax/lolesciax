@@ -2,9 +2,9 @@
 
 <img src="./profile-banner-dark.svg" alt="Leo Lawrence Galve — Full-stack developer. Clean interfaces. Useful software." width="100%">
 
-### Build with purpose. Keep it simple.
+### Thoughtful design. Solid code.
 
-Web & mobile development, with an eye for the details.
+<sub>Web &amp; mobile experiences, built with care.</sub>
 
 <p>
   <a href="https://lawrencegalve.vercel.app"><img src="./assets/intro-portfolio.svg" alt="Portfolio" width="128" height="34"></a>&nbsp;
@@ -12,7 +12,12 @@ Web & mobile development, with an eye for the details.
   <a href="mailto:galveleolawrence@gmail.com"><img src="./assets/intro-contact.svg" alt="Say hello" width="118" height="34"></a>
 </p>
 
-<sub><a href="#about">About</a> &nbsp; / &nbsp; <a href="#tech-stack">Tech stack</a> &nbsp; / &nbsp; <a href="#selected-work">Selected work</a> &nbsp; / &nbsp; <a href="#beyond-the-code">Portfolios</a></sub>
+<p>
+  <a href="#about"><img src="./assets/nav-about.svg" alt="About" width="58" height="24"></a>
+  <a href="#tech-stack"><img src="./assets/nav-stack.svg" alt="Tech stack" width="80" height="24"></a>
+  <a href="#selected-work"><img src="./assets/nav-work.svg" alt="Selected work" width="100" height="24"></a>
+  <a href="#beyond-the-code"><img src="./assets/nav-portfolios.svg" alt="Portfolios" width="80" height="24"></a>
+</p>
 
 </div>
 
