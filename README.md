@@ -7,9 +7,9 @@
 Web & mobile development, with an eye for the details.
 
 <p>
-  <a href="https://lawrencegalve.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-f0f0f0?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=171717" alt="Explore my main portfolio" height="30"></a>
-  <a href="https://leolawrencegalve.vercel.app"><img src="https://img.shields.io/badge/Desktop_Portfolio-262626?style=for-the-badge&amp;logo=htmx&amp;logoColor=white" alt="Explore my Windows 11 portfolio" height="30"></a>
-  <a href="mailto:galveleolawrence@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-262626?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Leo" height="30"></a>
+  <a href="https://lawrencegalve.vercel.app"><img src="./assets/link-portfolio.svg" alt="Explore my main portfolio" height="42"></a>
+  <a href="https://leolawrencegalve.vercel.app"><img src="./assets/link-desktop.svg" alt="Explore my Windows 11 portfolio" height="42"></a>
+  <a href="mailto:galveleolawrence@gmail.com"><img src="./assets/link-contact.svg" alt="Email Leo" height="42"></a>
 </p>
 
 <sub><a href="#about">About</a> &nbsp; / &nbsp; <a href="#tech-stack">Tech stack</a> &nbsp; / &nbsp; <a href="#selected-work">Selected work</a> &nbsp; / &nbsp; <a href="#beyond-the-code">Portfolios</a></sub>
@@ -72,59 +72,32 @@ I also explore desktop-inspired interfaces and interactive 3D on the web.
 **SMaRT-PDM** · Scholarship Management and Records Tracking<br>
 <sub>A team project for the Office for Scholarship and Financial Assistance at Pambayang Dalubhasaan ng Marilao.</sub>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>SMaRT-PDM Web</h3>
-      <p>Less paperwork. Clearer records.</p>
-      <p>Scholarship applications, document reviews, scholar records, renewals, and reporting in one platform.</p>
-      <sub>Web platform · Scholarship administration</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>SMaRT-PDM App</h3>
-      <p>Scholarship access, on the go.</p>
-      <p>An Android companion that brings scholarship applications and renewals straight to a student's phone.</p>
-      <sub>Android app · Student experience</sub>
-    </td>
-  </tr>
-</table>
+<p><img src="./assets/project-web.svg" alt="SMaRT-PDM Web — A scholarship management platform for applications, scholar records, document reviews, renewals, and reports." width="100%"></p>
+
+<p><img src="./assets/project-app.svg" alt="SMaRT-PDM App — An Android companion for student scholarship applications and renewals." width="100%"></p>
 
 <br>
 
-<h2><a name="beyond-the-code"></a><img src="./assets/section-portfolios.svg" alt="Two ways to explore — Portfolios" width="100%"></h2>
+<h2><a name="beyond-the-code"></a><img src="./assets/section-portfolios.svg" alt="Find your way in — Portfolios and links" width="100%"></h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Main portfolio</h3>
-      <p>A closer look at my projects, skills, and development work.</p>
-      <a href="https://lawrencegalve.vercel.app">Explore my work ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>The desktop experience</h3>
-      <p>Explore my work through a Windows 11-inspired interface.</p>
-      <a href="https://leolawrencegalve.vercel.app">Open the desktop ↗</a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://lawrencegalve.vercel.app"><img src="./assets/portfolio-main.svg" alt="Visit my main portfolio — Projects, skills, and the work behind them." width="100%"></a>
+</p>
 
-<sub>Main portfolio mirror: <a href="https://portfolio.laureinzogalve.workers.dev">Cloudflare Workers</a></sub>
+<p>
+  <a href="https://leolawrencegalve.vercel.app"><img src="./assets/portfolio-desktop.svg" alt="Open my Windows 11-inspired desktop portfolio." width="100%"></a>
+</p>
+
+<p>
+  <a href="https://portfolio.laureinzogalve.workers.dev"><img src="./assets/portfolio-mirror.svg" alt="Visit the Cloudflare Workers mirror of my main portfolio." width="100%"></a>
+</p>
 
 <br>
 
 <div align="center">
 
-### Have something worth building?
+<a href="mailto:galveleolawrence@gmail.com"><img src="./profile-footer.svg" alt="Let's build something useful. Open to collaboration and opportunities to grow. Email galveleolawrence@gmail.com." width="100%"></a>
 
-Open to collaboration, fresh ideas, and opportunities to grow.
-
-<a href="mailto:galveleolawrence@gmail.com"><img src="https://img.shields.io/badge/Email_Me-f0f0f0?style=for-the-badge&amp;logo=gmail&amp;logoColor=171717" alt="Email me" height="30"></a>
-<a href="https://github.com/lolesciax"><img src="https://img.shields.io/badge/lolesciax-242424?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Find me on GitHub" height="30"></a>
-
-<sub>[galveleolawrence@gmail.com](mailto:galveleolawrence@gmail.com)</sub>
-
-<br>
-
-<img src="./profile-footer.svg" alt="Good ideas deserve thoughtful execution. Built with purpose. Refined with care." width="100%">
+<sub><a href="mailto:galveleolawrence@gmail.com">galveleolawrence@gmail.com</a> &nbsp; / &nbsp; <a href="https://github.com/lolesciax">@lolesciax on GitHub</a></sub>
 
 </div>

@@ -1,14 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-labelledby="title desc">
-  <title id="title">Selected work</title>
-  <desc id="desc">Built for real workflows</desc>
-  <defs><linearGradient id="edge"><stop stop-color="#737373"/><stop offset="1" stop-color="#222222"/></linearGradient><clipPath id="clip"><rect width="1200" height="96" rx="12"/></clipPath></defs>
-  <style>.light{animation:pass 9s ease-in-out infinite}@keyframes pass{0%,20%{transform:translateX(0);opacity:0}35%,65%{opacity:.8}85%,100%{transform:translateX(1000px);opacity:0}}@media(max-width:600px){.detail{display:none}.heading{font-size:42px}}@media(prefers-reduced-motion:reduce){.light{animation:none}}</style>
-  <g clip-path="url(#clip)">
-    <rect width="1200" height="96" fill="#101010"/>
-    <path d="M0 95H1200" stroke="url(#edge)"/>
-    <rect class="light" x="80" y="94" width="100" height="2" rx="1" fill="#D4D4D4"/>
-    <g transform="translate(20 8)" fill="none" stroke="#B8B8B8" stroke-width="1.6" stroke-linejoin="round"><path d="M10 29H46V55H10ZM20 29V22H36V29M10 39H46M25 36H31V43H25Z"/></g>
-    <text class="heading" x="94" y="58" fill="#EEEEEE" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600" letter-spacing="-.6">Selected work</text>
-    <text class="detail" x="1158" y="56" text-anchor="end" fill="#929292" font-family="Arial, Helvetica, sans-serif" font-size="18">Built for real workflows</text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-labelledby="title"><title id="title">Selected work</title><style>@media(max-width:600px){.detail{display:none}.heading{font-size:42px}}</style>
+ <rect x=".5" y=".5" width="1199" height="99" rx="16" fill="#101010" stroke="#252525"/>
+ <rect x="17" y="17" width="66" height="66" rx="19" fill="#1C1C1C" stroke="#3B3B3B"/>
+ <g transform="translate(22 10)" fill="none" stroke="#D4D4D4" stroke-width="1.6" stroke-linejoin="round"><path d="M10 29H46V55H10ZM20 29V22H36V29M10 39H46M25 36H31V43H25Z"/></g>
+ <text class="heading" x="105" y="61" fill="#F0F0F0" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600" letter-spacing="-.7">Selected work</text>
+ <text class="detail" x="1110" y="59" text-anchor="end" fill="#A3A3A3" font-family="Arial, Helvetica, sans-serif" font-size="18">Software for everyday workflows</text>
+ <g class="detail" fill="#555555"><circle cx="1151" cy="43" r="2"/><circle cx="1163" cy="43" r="2"/><circle cx="1151" cy="55" r="2"/><circle cx="1163" cy="55" r="2"/></g></svg>

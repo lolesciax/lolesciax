@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title"><title id="title">Main portfolio — Projects, skills, and the thinking behind the build.</title><style>@media(max-width:600px){.illustration,.arrow,.domain{display:none}.copy{transform:translate(-250px,0) scale(1.22)}.title{font-size:41px}.subtitle{font-size:32px}.label{font-size:23px}}</style><defs>
+ <linearGradient id="base" x2="1" y2="1"><stop stop-color="#1B1B1B"/><stop offset="1" stop-color="#080808"/></linearGradient>
+ <radialGradient id="light"><stop stop-color="#FFFFFF" stop-opacity=".085"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
+</defs>
+ <rect x=".5" y=".5" width="1199" height="209" rx="22" fill="url(#base)" stroke="#3B3B3B"/>
+ <g class="illustration"><g transform="translate(38 35)"><rect width="211" height="133" rx="10" fill="#151515" stroke="#575757"/><path d="M0 22H211" stroke="#414141"/><circle cx="14" cy="11" r="2.5" fill="#888888"/><circle cx="23" cy="11" r="2.5" fill="#666666"/><text x="19" y="67" fill="#E5E5E5" font-family="Arial" font-weight="700" font-size="23">Leo Galve.</text><path d="M20 82H158M20 93H127" stroke="#666666" stroke-width="3"/><rect x="20" y="107" width="48" height="11" rx="5" fill="#B8B8B8"/></g></g>
+ <g transform="translate(292 0)"><g class="copy" font-family="Arial, Helvetica, sans-serif">
+ <text class="label" x="0" y="42" fill="#A3A3A3" font-size="16">Main portfolio</text>
+ <text class="title" x="-1" y="90" fill="#F0F0F0" font-size="37" font-weight="700" letter-spacing="-1">The work, up close.</text>
+ <text class="subtitle" x="0" y="128" fill="#B8B8B8" font-size="22">Projects, skills, and the thinking behind the build.</text>
+ <text class="domain" x="0" y="172" fill="#929292" font-size="16">lawrencegalve.vercel.app</text>
+ </g></g>
+ <circle class="arrow" cx="1119" cy="105" r="30" fill="#252525" stroke="#555555"/>
+ <path class="arrow" d="M1109 115L1129 95M1110 95H1129V114" fill="none" stroke="#E5E5E5" stroke-width="2" stroke-linecap="round"/></svg>

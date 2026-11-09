@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title"><title id="title">Desktop experience — A Windows 11-inspired way to explore my portfolio.</title><style>@media(max-width:600px){.illustration,.arrow,.domain{display:none}.copy{transform:translate(-250px,0) scale(1.22)}.title{font-size:41px}.subtitle{font-size:32px}.label{font-size:23px}}</style><defs>
+ <linearGradient id="base" x2="1" y2="1"><stop stop-color="#1B1B1B"/><stop offset="1" stop-color="#080808"/></linearGradient>
+ <radialGradient id="light"><stop stop-color="#FFFFFF" stop-opacity=".085"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
+</defs>
+ <rect x=".5" y=".5" width="1199" height="209" rx="22" fill="url(#base)" stroke="#3B3B3B"/>
+ <g class="illustration"><g transform="translate(38 35)"><rect width="211" height="133" rx="10" fill="#151515" stroke="#575757"/><path d="M0 110H211" stroke="#414141"/><g fill="#494949"><rect x="82" y="117" width="6" height="6" rx="1"/><rect x="94" y="117" width="6" height="6" rx="1"/><rect x="106" y="117" width="6" height="6" rx="1"/><rect x="118" y="117" width="6" height="6" rx="1"/></g><g transform="translate(63 24)" fill="#B8B8B8"><path d="M0 0L36 -5V28H0ZM42 -6L78 -11V28H42ZM0 34H36V67L0 62ZM42 34H78V73L42 68Z"/></g></g></g>
+ <g transform="translate(292 0)"><g class="copy" font-family="Arial, Helvetica, sans-serif">
+ <text class="label" x="0" y="42" fill="#A3A3A3" font-size="16">Desktop experience</text>
+ <text class="title" x="-1" y="90" fill="#F0F0F0" font-size="37" font-weight="700" letter-spacing="-1">A different kind of desktop.</text>
+ <text class="subtitle" x="0" y="128" fill="#B8B8B8" font-size="22">A Windows 11-inspired way to explore my portfolio.</text>
+ <text class="domain" x="0" y="172" fill="#929292" font-size="16">leolawrencegalve.vercel.app</text>
+ </g></g>
+ <circle class="arrow" cx="1119" cy="105" r="30" fill="#252525" stroke="#555555"/>
+ <path class="arrow" d="M1109 115L1129 95M1110 95H1129V114" fill="none" stroke="#E5E5E5" stroke-width="2" stroke-linecap="round"/></svg>

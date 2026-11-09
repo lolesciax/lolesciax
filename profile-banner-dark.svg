@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
   <title id="title">Leo Lawrence Galve — Full-stack developer</title>
-  <desc id="desc">Animated black and platinum developer header with an orbiting silver constellation, a floating code window, and flowing light. Clean interfaces. Useful software.</desc>
+  <desc id="desc">Animated black and platinum header with counter-rotating silver satellites, twinkling particles, a floating code window, and soft lighting. Clean interfaces. Useful software.</desc>
   <defs>
     <linearGradient id="base" x2="1" y2="1"><stop stop-color="#050505"/><stop offset="1" stop-color="#1D1D1D"/></linearGradient>
     <linearGradient id="metal" x2="1" y2=".4"><stop stop-color="#FFFFFF"/><stop offset=".48" stop-color="#E5E5E5"/><stop offset="1" stop-color="#888888"/></linearGradient>
@@ -14,7 +14,10 @@
     .intro { animation: arrive 1s ease-out both; }
     .subtitle { animation: arrive 1s .15s ease-out both; }
     .panel { animation: float 7s ease-in-out infinite; }
-    .orbit { transform-origin: 948px 216px; animation: orbit 32s linear infinite; }
+    .orbit { transform-origin: 948px 216px; animation: orbit 30s linear infinite; }
+    .orbit-back { transform-origin:948px 216px; animation:orbit 44s linear reverse infinite; }
+    .stars { animation:twinkle 6s ease-in-out infinite; }
+    .card-highlight { animation:breathe 9s ease-in-out infinite; }
     .ambient { animation: breathe 8s ease-in-out infinite; }
     .beam { animation: sweep 12s ease-in-out infinite; }
     .cursor { animation: blink 1.8s steps(1,end) infinite; }
@@ -24,9 +27,10 @@
     @keyframes orbit { to { transform:rotate(360deg); } }
     @keyframes breathe { 0%,100% { opacity:.4; } 50% { opacity:1; } }
     @keyframes sweep { 0%,30% { transform:translateX(-500px); opacity:0; } 40% { opacity:1; } 75%,100% { transform:translateX(1600px); opacity:0; } }
+    @keyframes twinkle { 0%,100% { opacity:.25; } 50% { opacity:.85; } }
     @keyframes blink { 0%,55% { opacity:1; } 56%,100% { opacity:0; } }
     @media (max-width:600px) { .panel { display:none; } .copy { transform:translate(-14px,-22px) scale(1.35); } .desktop-only { display:none; } }
-    @media (prefers-reduced-motion:reduce) { .intro,.subtitle,.panel,.orbit,.ambient,.beam,.cursor,.signal { animation:none; } }
+    @media (prefers-reduced-motion:reduce) { .intro,.subtitle,.panel,.orbit,.orbit-back,.stars,.card-highlight,.ambient,.beam,.cursor,.signal { animation:none; } }
   </style>
   <g clip-path="url(#frame)">
     <rect width="1200" height="480" fill="url(#base)"/>
@@ -37,6 +41,8 @@
       <ellipse cx="948" cy="216" rx="236" ry="149" stroke-opacity=".06" transform="rotate(32 948 216)"/>
       <circle cx="948" cy="216" r="194" stroke-opacity=".06" stroke-dasharray="2 12"/>
     </g>
+    <g class="orbit-back"><circle cx="754" cy="216" r="3" fill="#B8B8B8"/><circle cx="1142" cy="216" r="2" fill="#737373"/></g>
+    <g class="stars" fill="#B8B8B8"><circle cx="705" cy="77" r="1.5"/><circle cx="1154" cy="74" r="1.5"/><circle cx="713" cy="350" r="2"/><circle cx="1104" cy="383" r="1.5"/><circle cx="670" cy="285" r="1"/></g>
     <g class="orbit"><circle cx="948" cy="22" r="4" fill="#E5E5E5"/><circle cx="948" cy="410" r="2.5" fill="#737373"/></g>
     <path d="M0 402C240 328 438 470 740 398S1040 370 1200 334V480H0Z" fill="#FFFFFF" opacity=".035"/>
     <path d="M0 427C260 363 480 483 780 424S1040 406 1200 384" fill="none" stroke="url(#edge)" stroke-opacity=".55"/>
@@ -59,6 +65,7 @@
     <g class="panel">
       <rect x="762" y="107" width="374" height="240" rx="15" fill="#000000" opacity=".3" transform="translate(0 10)"/>
       <rect x="762" y="107" width="374" height="240" rx="15" fill="#101010" stroke="url(#edge)"/>
+      <path class="card-highlight" d="M780 108H1118" stroke="#A3A3A3" stroke-opacity=".6"/>
       <path d="M762 150H1136" stroke="#303030"/>
       <g fill="#737373"><circle cx="784" cy="129" r="4"/><circle cx="800" cy="129" r="4"/><circle cx="816" cy="129" r="4"/></g>
       <text x="1112" y="134" text-anchor="end" fill="#A3A3A3" font-family="Consolas, monospace" font-size="12">developer.ts</text>

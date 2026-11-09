@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title"><title id="title">SMaRT-PDM Web — Less paperwork. Clearer records. Applications, renewals, and reporting in one place.</title><style>@media(max-width:600px){.illustration{display:none}.copy{transform:translate(-10px,-12px) scale(1.32)}.eyebrow{font-size:21px}.description{font-size:32px}.meta{display:none}}</style><defs>
+ <linearGradient id="base" x2="1" y2="1"><stop stop-color="#1B1B1B"/><stop offset="1" stop-color="#080808"/></linearGradient>
+ <radialGradient id="light"><stop stop-color="#FFFFFF" stop-opacity=".085"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
+</defs>
+ <rect x=".5" y=".5" width="1199" height="309" rx="22" fill="url(#base)" stroke="#3B3B3B"/>
+ <ellipse cx="990" cy="140" rx="290" ry="170" fill="url(#light)"/>
+ <g class="copy" font-family="Arial, Helvetica, sans-serif">
+ <text class="eyebrow" x="42" y="51" fill="#A3A3A3" font-size="16">The scholarship workspace</text>
+ <text x="40" y="111" fill="#F5F5F5" font-size="46" font-weight="700" letter-spacing="-1.5">SMaRT-PDM Web</text>
+ <text class="description" x="42" y="158" fill="#D4D4D4" font-size="25">Less paperwork. Clearer records.</text>
+ <text class="description" x="42" y="193" fill="#A3A3A3" font-size="23">Applications, renewals, and reporting in one place.</text>
+ <g class="meta"><rect x="42" y="237" width="143" height="31" rx="15.5" fill="#252525" stroke="#444444"/>
+ <text x="59" y="257" fill="#D4D4D4" font-size="13">Web platform</text>
+ <text x="207" y="257" fill="#8F8F8F" font-size="14">Records / Reviews / Reports</text></g>
+ </g><g class="illustration">
+ <g transform="translate(791 56) rotate(-4 171 100)">
+ <rect x="6" y="9" width="338" height="206" rx="13" fill="#000000" opacity=".65"/>
+ <rect width="338" height="206" rx="13" fill="#121212" stroke="#606060"/>
+ <path d="M0 28H338" stroke="#3C3C3C"/>
+ <g fill="#777777"><circle cx="15" cy="14" r="3"/><circle cx="26" cy="14" r="3"/><circle cx="37" cy="14" r="3"/></g>
+ <rect x="13" y="42" width="66" height="149" rx="6" fill="#1D1D1D"/>
+ <path d="M25 59H64M25 78H56M25 97H61M25 116H53" stroke="#555555" stroke-width="3"/>
+ <text x="94" y="58" fill="#E5E5E5" font-family="Arial" font-size="12" font-weight="700">Scholar records</text>
+ <g fill="#272727" stroke="#414141"><rect x="94" y="73" width="70" height="36" rx="5"/><rect x="172" y="73" width="70" height="36" rx="5"/><rect x="250" y="73" width="70" height="36" rx="5"/></g>
+ <g stroke="#555555" stroke-width="3"><path d="M107 87H147M185 87H225M263 87H303"/></g>
+ <g stroke="#353535"><path d="M94 132H320M94 152H320M94 172H320M94 191H320"/></g>
+ <g fill="#8C8C8C"><circle cx="104" cy="142" r="3"/><circle cx="104" cy="162" r="3"/><circle cx="104" cy="182" r="3"/></g>
+ <path d="M118 142H187M118 162H205M118 182H178" stroke="#666666" stroke-width="3"/>
+ </g></g></svg>
