@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="./profile-banner-dark.svg" alt="Leo Galve. Full-stack developer. Clean interfaces. Useful software. Web and mobile." width="100%">
 </p>
 
