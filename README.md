@@ -40,7 +40,6 @@ I also explore desktop-inspired interfaces and interactive 3D on the web.
   <img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" height="28">
   <img src="https://img.shields.io/badge/CSS-181818?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS" height="28">
   <img src="https://img.shields.io/badge/Tailwind_CSS-181818?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" height="28">
-  <img src="https://img.shields.io/badge/Vite-181818?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite" height="28">
 </p>
 
 <sub>APIs & data</sub>
