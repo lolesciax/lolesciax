@@ -5,8 +5,8 @@
 <br>
 
 <p>
-  <a href="https://lawrencegalve.vercel.app"><img src="./assets/link-portfolio.svg" alt="Explore my work" width="164" height="44"></a>&nbsp;&nbsp;
-  <a href="mailto:galveleolawrence@gmail.com"><img src="./assets/link-contact.svg" alt="Get in touch" width="164" height="44"></a>
+  <a href="https://lawrencegalve.vercel.app"><img src="./assets/link-portfolio.svg" alt="Explore my work — Projects, skills, and experiments" width="300" height="80"></a>&nbsp;&nbsp;
+  <a href="mailto:galveleolawrence@gmail.com"><img src="./assets/link-contact.svg" alt="Start a conversation — Have an idea? Let's talk." width="300" height="80"></a>
 </p>
 
 </div>
