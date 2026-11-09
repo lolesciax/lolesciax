@@ -1,72 +1,130 @@
-<p align="center">
-  <img src="./profile-banner-dark.svg" alt="Leo Galve. Full-stack developer. Clean interfaces. Useful software. Web and mobile." width="100%">
+<div align="center">
+
+<img src="./profile-banner-dark.svg" alt="Leo Lawrence Galve — Full-stack developer. Clean interfaces. Useful software." width="100%">
+
+### Build with purpose. Keep it simple.
+
+Web & mobile development, with an eye for the details.
+
+<p>
+  <a href="https://lawrencegalve.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-f0f0f0?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=171717" alt="Explore my main portfolio" height="30"></a>
+  <a href="https://leolawrencegalve.vercel.app"><img src="https://img.shields.io/badge/Desktop_Portfolio-262626?style=for-the-badge&amp;logo=htmx&amp;logoColor=white" alt="Explore my Windows 11 portfolio" height="30"></a>
+  <a href="mailto:galveleolawrence@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-262626?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Leo" height="30"></a>
 </p>
 
-<p align="center">
-  <a href="https://lawrencegalve.vercel.app">Portfolio</a>&nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="https://leolawrencegalve.vercel.app">Desktop experience</a>&nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="mailto:galveleolawrence@gmail.com">Get in touch</a>
+<sub><a href="#about">About</a> &nbsp; / &nbsp; <a href="#tech-stack">Tech stack</a> &nbsp; / &nbsp; <a href="#selected-work">Selected work</a> &nbsp; / &nbsp; <a href="#beyond-the-code">Portfolios</a></sub>
+
+</div>
+
+<br>
+
+## About
+
+I'm **Leo Lawrence M. Galve**, an Information Technology student and full-stack
+developer. I turn everyday workflows into thoughtful web and mobile experiences.
+
+**Design that feels clear. Systems that work together.**<br>
+From responsive interfaces to APIs and databases, I enjoy connecting the pieces.
+I also explore desktop-inspired interfaces and interactive 3D on the web.
+
+<br>
+
+## Tech stack
+
+<sub>Interfaces & experiences</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/React-181818?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React" height="28">
+  <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" height="28">
+  <img src="https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="28">
+  <img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" height="28">
+  <img src="https://img.shields.io/badge/CSS-181818?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS" height="28">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-181818?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" height="28">
+  <img src="https://img.shields.io/badge/Vite-181818?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite" height="28">
+</p>
+
+<sub>APIs & data</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-242424?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" height="28">
+  <img src="https://img.shields.io/badge/Express-242424?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express" height="28">
+  <img src="https://img.shields.io/badge/Python-242424?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" height="28">
+  <img src="https://img.shields.io/badge/Flask-242424?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" height="28">
+  <img src="https://img.shields.io/badge/PostgreSQL-242424?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" height="28">
+  <img src="https://img.shields.io/badge/Supabase-242424?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase" height="28">
+  <img src="https://img.shields.io/badge/MongoDB-242424?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" height="28">
+</p>
+
+<sub>Mobile, motion & workflow</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-181818?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter" height="28">
+  <img src="https://img.shields.io/badge/Dart-181818?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart" height="28">
+  <img src="https://img.shields.io/badge/Three.js-181818?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js" height="28">
+  <img src="https://img.shields.io/badge/Git-181818?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" height="28">
+  <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" height="28">
 </p>
 
 <br>
 
-### A little about me
+## Selected work
 
-I'm **Leo Lawrence M. Galve**, an Information Technology student building
-for the web and mobile. I turn everyday workflows into software that's
-simple to use and thoughtfully built.
+**SMaRT-PDM** · Scholarship Management and Records Tracking<br>
+<sub>A team project for the Office for Scholarship and Financial Assistance at Pambayang Dalubhasaan ng Marilao.</sub>
 
-Interfaces, APIs, databases. I enjoy connecting the pieces.
-
-<br>
-
-### Selected work
-
-**SMaRT-PDM** · Scholarship Management and Records Tracking
-
-Built with a team for the Office for Scholarship and Financial Assistance
-at Pambayang Dalubhasaan ng Marilao.
-
-- **Web platform** — Scholarship applications, scholar records, document
-  reviews, renewals, and reporting in one place.
-- **Android companion** — Scholarship applications and renewals,
-  straight from a student's phone.
-
-<br>
-
-### My toolkit
-
-| Area | Technologies |
-| :--- | :--- |
-| Frontend | React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Vite |
-| Backend | Node.js, Express, Python, Flask |
-| Data | PostgreSQL, Supabase, MongoDB |
-| Mobile & 3D | Flutter, Dart, Three.js |
-| Workflow | Git, GitHub |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>SMaRT-PDM Web</h3>
+      <p>Less paperwork. Clearer records.</p>
+      <p>Scholarship applications, document reviews, scholar records, renewals, and reporting in one platform.</p>
+      <sub>Web platform · Scholarship administration</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>SMaRT-PDM App</h3>
+      <p>Scholarship access, on the go.</p>
+      <p>An Android companion that brings scholarship applications and renewals straight to a student's phone.</p>
+      <sub>Android app · Student experience</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-### Explore more
+## Beyond the code
 
-**[Main portfolio](https://lawrencegalve.vercel.app)**<br>
-Projects, skills, and the work behind them.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Main portfolio</h3>
+      <p>A closer look at my projects, skills, and development work.</p>
+      <a href="https://lawrencegalve.vercel.app">Explore my work ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>The desktop experience</h3>
+      <p>Explore my work through a Windows 11-inspired interface.</p>
+      <a href="https://leolawrencegalve.vercel.app">Open the desktop ↗</a>
+    </td>
+  </tr>
+</table>
 
-**[Windows 11 portfolio](https://leolawrencegalve.vercel.app)**<br>
-The same developer. A desktop-inspired experience.
-
-<sub>Main portfolio also available on <a href="https://portfolio.laureinzogalve.workers.dev">Cloudflare Workers</a>.</sub>
+<sub>Main portfolio mirror: <a href="https://portfolio.laureinzogalve.workers.dev">Cloudflare Workers</a></sub>
 
 <br>
+
+<div align="center">
+
+### Have something worth building?
+
+Open to collaboration, fresh ideas, and opportunities to grow.
+
+<a href="mailto:galveleolawrence@gmail.com"><img src="https://img.shields.io/badge/Email_Me-f0f0f0?style=for-the-badge&amp;logo=gmail&amp;logoColor=171717" alt="Email me" height="30"></a>
+<a href="https://github.com/lolesciax"><img src="https://img.shields.io/badge/lolesciax-242424?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Find me on GitHub" height="30"></a>
+
+<sub>[galveleolawrence@gmail.com](mailto:galveleolawrence@gmail.com)</sub>
+
 <br>
 
----
+<img src="./profile-footer.svg" alt="Built with purpose. Refined with care." width="100%">
 
-<p align="center">
-  <b>Have something worth building?</b><br>
-  Open to collaboration and opportunities to grow.<br>
-  <a href="mailto:galveleolawrence@gmail.com">galveleolawrence@gmail.com</a>
-</p>
-
-<p align="center">
-  <sub><a href="https://github.com/lolesciax">@lolesciax</a> · Thoughtful by design.</sub>
-</p>
+</div>

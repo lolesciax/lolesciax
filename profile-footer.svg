@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="title">
+  <title id="title">Built with purpose. Refined with care.</title>
+  <path d="M0 32C220 80 400 0 640 30S1000 75 1200 20V120H0Z" fill="#303030"/>
+  <path d="M0 48C240 100 420 14 700 48S1000 80 1200 36V120H0Z" fill="#171717"/>
+  <path d="M0 48C240 100 420 14 700 48S1000 80 1200 36" fill="none" stroke="#737373" stroke-opacity=".4"/>
+  <text x="600" y="96" text-anchor="middle" fill="#B8B8B8" font-family="Arial, Helvetica, sans-serif" font-size="18">Built with purpose. Refined with care.</text>
+</svg>
