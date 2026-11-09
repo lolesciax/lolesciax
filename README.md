@@ -2,12 +2,17 @@
 
 <img src="./profile-banner-dark.svg" alt="Leo Lawrence Galve — Full-stack developer. Clean interfaces. Useful software." width="100%">
 
-<br>
+### Build with purpose. Keep it simple.
+
+Web & mobile development, with an eye for the details.
 
 <p>
-  <a href="https://lawrencegalve.vercel.app"><img src="./assets/link-portfolio.svg" alt="Explore my work — Projects, skills, and experiments" width="300" height="80"></a>&nbsp;&nbsp;
-  <a href="mailto:galveleolawrence@gmail.com"><img src="./assets/link-contact.svg" alt="Start a conversation — Have an idea? Let's talk." width="300" height="80"></a>
+  <a href="https://lawrencegalve.vercel.app"><img src="./assets/intro-portfolio.svg" alt="Portfolio" width="128" height="34"></a>&nbsp;
+  <a href="https://leolawrencegalve.vercel.app"><img src="./assets/intro-desktop.svg" alt="Desktop experience" width="180" height="34"></a>&nbsp;
+  <a href="mailto:galveleolawrence@gmail.com"><img src="./assets/intro-contact.svg" alt="Say hello" width="118" height="34"></a>
 </p>
+
+<sub><a href="#about">About</a> &nbsp; / &nbsp; <a href="#tech-stack">Tech stack</a> &nbsp; / &nbsp; <a href="#selected-work">Selected work</a> &nbsp; / &nbsp; <a href="#beyond-the-code">Portfolios</a></sub>
 
 </div>
 
