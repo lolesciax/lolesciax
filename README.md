@@ -33,11 +33,15 @@ developer. I turn everyday workflows into thoughtful web and mobile experiences.
 From responsive interfaces to APIs and databases, I enjoy connecting the pieces.
 I also explore desktop-inspired interfaces and interactive 3D on the web.
 
-> _"Good software disappears into the workflow. Great software makes the workflow
-> disappear."_
+I like taking a messy idea and making it feel simple to use. That means thinking
+through the small things people notice first — clear layouts, useful feedback,
+and smooth experiences on any screen — while making sure the code behind them
+holds up too.
 
-I'm drawn to projects where design decisions and technical choices support the
-same goal — making something people can actually use without thinking about it.
+Working across the stack lets me connect those details: how a page looks, how
+the app behaves, and how its data moves. I'm still learning with every project,
+but I care about building things that feel considered, work reliably, and make
+someone's day a little easier.
 
 <br>
 
