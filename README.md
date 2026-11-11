@@ -25,13 +25,12 @@
 
 <h2><a name="about"></a><img src="./assets/section-about.svg" alt="Behind the build — About me" width="100%"></h2>
 
-I'm **Leo Lawrence M. Galve**, an Information Technology student and full-stack
-developer. I turn everyday workflows into thoughtful web and mobile experiences.
+I'm **Leo Lawrence M. Galve**—an IT student and full-stack developer building
+web and mobile products that make everyday work simpler.
 
-**I like making the complicated feel clear.**<br>
-I work across interfaces, APIs, and data to build web and mobile experiences
-that are useful, considered, and easy to navigate. Outside that, I'm drawn to
-desktop-inspired UI and interactive 3D.
+**Clear interfaces. Reliable systems. Useful software.**<br>
+I bring design and engineering together, from the experience people see to the
+APIs and data that make it work.
 
 <br>
 
