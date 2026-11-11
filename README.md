@@ -14,7 +14,6 @@
 
 <p>
   <a href="#about"><img src="./assets/nav-about.svg" alt="About" width="58" height="24"></a>
-  <a href="#currently"><img src="./assets/nav-status.svg" alt="Right now" width="80" height="24"></a>
   <a href="#tech-stack"><img src="./assets/nav-stack.svg" alt="Tech stack" width="80" height="24"></a>
   <a href="#selected-work"><img src="./assets/nav-work.svg" alt="Selected work" width="100" height="24"></a>
   <a href="#beyond-the-code"><img src="./assets/nav-portfolios.svg" alt="Portfolios" width="80" height="24"></a>
@@ -38,58 +37,40 @@ desktop-inspired UI and interactive 3D.
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
-<h2><a name="currently"></a><img src="./assets/section-status.svg" alt="Right now — What I'm up to" width="100%"></h2>
-
-🔨 &nbsp; **Building** — Finishing SMaRT-PDM features and polishing the UI<br>
-📖 &nbsp; **Learning** — Deepening TypeScript patterns and server-side rendering<br>
-🎯 &nbsp; **Exploring** — Desktop-style web interfaces and 3D on the browser<br>
-🌱 &nbsp; **Growing** — Writing cleaner code, one refactor at a time
-
-<p align="center"><img src="./assets/activity.svg" alt="Building consistently — stylized contribution graph" width="100%"></p>
-
-<br>
-
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
-
 <h2><a name="tech-stack"></a><img src="./assets/section-stack.svg" alt="The toolkit — Tech stack" width="100%"></h2>
 
-<table>
-  <tbody>
-    <tr>
-      <td width="25%" valign="middle"><sub>01 / INTERFACE</sub><br><strong>Interfaces &amp; experiences</strong></td>
-      <td valign="middle">
-        <img src="./assets/badge-react.svg" alt="React" height="28">
-        <img src="./assets/badge-javascript.svg" alt="JavaScript" height="28">
-        <img src="./assets/badge-typescript.svg" alt="TypeScript" height="28">
-        <img src="./assets/badge-html5.svg" alt="HTML5" height="28">
-        <img src="./assets/badge-css.svg" alt="CSS" height="28">
-        <img src="./assets/badge-tailwind.svg" alt="Tailwind CSS" height="28">
-      </td>
-    </tr>
-    <tr>
-      <td width="25%" valign="middle"><sub>02 / ENGINEERING</sub><br><strong>APIs &amp; data</strong></td>
-      <td valign="middle">
-        <img src="./assets/badge-nodejs.svg" alt="Node.js" height="28">
-        <img src="./assets/badge-express.svg" alt="Express" height="28">
-        <img src="./assets/badge-python.svg" alt="Python" height="28">
-        <img src="./assets/badge-flask.svg" alt="Flask" height="28">
-        <img src="./assets/badge-postgresql.svg" alt="PostgreSQL" height="28">
-        <img src="./assets/badge-supabase.svg" alt="Supabase" height="28">
-        <img src="./assets/badge-mongodb.svg" alt="MongoDB" height="28">
-      </td>
-    </tr>
-    <tr>
-      <td width="25%" valign="middle"><sub>03 / MOBILE + MOTION</sub><br><strong>Mobile &amp; workflow</strong></td>
-      <td valign="middle">
-        <img src="./assets/badge-flutter.svg" alt="Flutter" height="28">
-        <img src="./assets/badge-dart.svg" alt="Dart" height="28">
-        <img src="./assets/badge-threejs.svg" alt="Three.js" height="28">
-        <img src="./assets/badge-git.svg" alt="Git" height="28">
-        <img src="./assets/badge-github.svg" alt="GitHub" height="28">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<sub>Interfaces &amp; experiences</sub>
+
+<p>
+  <img src="./assets/badge-react.svg" alt="React" height="28">
+  <img src="./assets/badge-javascript.svg" alt="JavaScript" height="28">
+  <img src="./assets/badge-typescript.svg" alt="TypeScript" height="28">
+  <img src="./assets/badge-html5.svg" alt="HTML5" height="28">
+  <img src="./assets/badge-css.svg" alt="CSS" height="28">
+  <img src="./assets/badge-tailwind.svg" alt="Tailwind CSS" height="28">
+</p>
+
+<sub>APIs &amp; data</sub>
+
+<p>
+  <img src="./assets/badge-nodejs.svg" alt="Node.js" height="28">
+  <img src="./assets/badge-express.svg" alt="Express" height="28">
+  <img src="./assets/badge-python.svg" alt="Python" height="28">
+  <img src="./assets/badge-flask.svg" alt="Flask" height="28">
+  <img src="./assets/badge-postgresql.svg" alt="PostgreSQL" height="28">
+  <img src="./assets/badge-supabase.svg" alt="Supabase" height="28">
+  <img src="./assets/badge-mongodb.svg" alt="MongoDB" height="28">
+</p>
+
+<sub>Mobile, motion &amp; workflow</sub>
+
+<p>
+  <img src="./assets/badge-flutter.svg" alt="Flutter" height="28">
+  <img src="./assets/badge-dart.svg" alt="Dart" height="28">
+  <img src="./assets/badge-threejs.svg" alt="Three.js" height="28">
+  <img src="./assets/badge-git.svg" alt="Git" height="28">
+  <img src="./assets/badge-github.svg" alt="GitHub" height="28">
+</p>
 
 <br>
 
