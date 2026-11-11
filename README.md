@@ -14,6 +14,7 @@
 
 <p>
   <a href="#about"><img src="./assets/nav-about.svg" alt="About" width="58" height="24"></a>
+  <a href="#currently"><img src="./assets/nav-status.svg" alt="Right now" width="80" height="24"></a>
   <a href="#tech-stack"><img src="./assets/nav-stack.svg" alt="Tech stack" width="80" height="24"></a>
   <a href="#selected-work"><img src="./assets/nav-work.svg" alt="Selected work" width="100" height="24"></a>
   <a href="#beyond-the-code"><img src="./assets/nav-portfolios.svg" alt="Portfolios" width="80" height="24"></a>
@@ -32,44 +33,67 @@ developer. I turn everyday workflows into thoughtful web and mobile experiences.
 From responsive interfaces to APIs and databases, I enjoy connecting the pieces.
 I also explore desktop-inspired interfaces and interactive 3D on the web.
 
+> _"Good software disappears into the workflow. Great software makes the workflow
+> disappear."_
+
+I'm drawn to projects where design decisions and technical choices support the
+same goal — making something people can actually use without thinking about it.
+
 <br>
+
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
+
+<h2><a name="currently"></a><img src="./assets/section-status.svg" alt="Right now — What I'm up to" width="100%"></h2>
+
+🔨 &nbsp; **Building** — Finishing SMaRT-PDM features and polishing the UI<br>
+📖 &nbsp; **Learning** — Deepening TypeScript patterns and server-side rendering<br>
+🎯 &nbsp; **Exploring** — Desktop-style web interfaces and 3D on the browser<br>
+🌱 &nbsp; **Growing** — Writing cleaner code, one refactor at a time
+
+<p align="center"><img src="./assets/activity.svg" alt="Building consistently — stylized contribution graph" width="100%"></p>
+
+<br>
+
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
 <h2><a name="tech-stack"></a><img src="./assets/section-stack.svg" alt="The toolkit — Tech stack" width="100%"></h2>
 
 <sub>Interfaces & experiences</sub>
 
 <p>
-  <img src="https://img.shields.io/badge/React-181818?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React" height="28">
-  <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" height="28">
-  <img src="https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="28">
-  <img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" height="28">
-  <img src="https://img.shields.io/badge/CSS-181818?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS" height="28">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-181818?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" height="28">
+  <img src="./assets/badge-react.svg" alt="React" height="28">
+  <img src="./assets/badge-javascript.svg" alt="JavaScript" height="28">
+  <img src="./assets/badge-typescript.svg" alt="TypeScript" height="28">
+  <img src="./assets/badge-html5.svg" alt="HTML5" height="28">
+  <img src="./assets/badge-css.svg" alt="CSS" height="28">
+  <img src="./assets/badge-tailwind.svg" alt="Tailwind CSS" height="28">
 </p>
 
 <sub>APIs & data</sub>
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-242424?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" height="28">
-  <img src="https://img.shields.io/badge/Express-242424?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express" height="28">
-  <img src="https://img.shields.io/badge/Python-242424?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" height="28">
-  <img src="https://img.shields.io/badge/Flask-242424?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" height="28">
-  <img src="https://img.shields.io/badge/PostgreSQL-242424?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" height="28">
-  <img src="https://img.shields.io/badge/Supabase-242424?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase" height="28">
-  <img src="https://img.shields.io/badge/MongoDB-242424?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" height="28">
+  <img src="./assets/badge-nodejs.svg" alt="Node.js" height="28">
+  <img src="./assets/badge-express.svg" alt="Express" height="28">
+  <img src="./assets/badge-python.svg" alt="Python" height="28">
+  <img src="./assets/badge-flask.svg" alt="Flask" height="28">
+  <img src="./assets/badge-postgresql.svg" alt="PostgreSQL" height="28">
+  <img src="./assets/badge-supabase.svg" alt="Supabase" height="28">
+  <img src="./assets/badge-mongodb.svg" alt="MongoDB" height="28">
 </p>
 
 <sub>Mobile, motion & workflow</sub>
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-181818?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter" height="28">
-  <img src="https://img.shields.io/badge/Dart-181818?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart" height="28">
-  <img src="https://img.shields.io/badge/Three.js-181818?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js" height="28">
-  <img src="https://img.shields.io/badge/Git-181818?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" height="28">
-  <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" height="28">
+  <img src="./assets/badge-flutter.svg" alt="Flutter" height="28">
+  <img src="./assets/badge-dart.svg" alt="Dart" height="28">
+  <img src="./assets/badge-threejs.svg" alt="Three.js" height="28">
+  <img src="./assets/badge-git.svg" alt="Git" height="28">
+  <img src="./assets/badge-github.svg" alt="GitHub" height="28">
 </p>
 
 <br>
+
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
 <h2><a name="selected-work"></a><img src="./assets/section-work.svg" alt="Selected work" width="100%"></h2>
 
@@ -81,6 +105,8 @@ I also explore desktop-inspired interfaces and interactive 3D on the web.
 <p><img src="./assets/project-app.svg" alt="SMaRT-PDM App — An Android companion for student scholarship applications and renewals." width="100%"></p>
 
 <br>
+
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
 <h2><a name="beyond-the-code"></a><img src="./assets/section-portfolios.svg" alt="Find your way in — Portfolios and links" width="100%"></h2>
 

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-labelledby="title"><title id="title">Right now</title><style>@media(max-width:600px){.detail{display:none}.heading{font-size:42px}} .signal{animation:blink 2.4s ease-in-out infinite} @keyframes blink{0%,100%{opacity:.35}50%{opacity:1}} @media(prefers-reduced-motion:reduce){.signal{animation:none;opacity:.7}}</style>
+ <rect x=".5" y=".5" width="1199" height="99" rx="16" fill="#101010" stroke="#252525"/>
+ <rect x="17" y="17" width="66" height="66" rx="19" fill="#1C1C1C" stroke="#3B3B3B"/>
+ <g transform="translate(22 10)" fill="none" stroke="#D4D4D4" stroke-width="1.6" stroke-linejoin="round"><circle cx="28" cy="39" r="14"/><path d="M28 30V39L34 43"/></g>
+ <text class="heading" x="105" y="61" fill="#F0F0F0" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600" letter-spacing="-.7">Right now</text>
+ <text class="detail" x="1110" y="59" text-anchor="end" fill="#A3A3A3" font-family="Arial, Helvetica, sans-serif" font-size="18">What I'm up to</text>
+ <circle class="signal detail" cx="1151" cy="50" r="4" fill="#3FB950"/>
+ <circle class="detail" cx="1163" cy="43" r="2" fill="#555555"/><circle class="detail" cx="1163" cy="55" r="2" fill="#555555"/>
+</svg>

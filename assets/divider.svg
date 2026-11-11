@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-labelledby="title">
+  <title id="title">Section divider</title>
+  <style>
+    .pulse { animation: pulse 4s ease-in-out infinite; }
+    .pulse-delay { animation: pulse 4s 1.2s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity:.3; } 50% { opacity:1; } }
+    @media (prefers-reduced-motion:reduce) { .pulse,.pulse-delay { animation:none; opacity:.6; } }
+  </style>
+  <defs>
+    <linearGradient id="fade-l" x2="1"><stop stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".15"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+  </defs>
+  <line x1="100" y1="14" x2="1100" y2="14" stroke="url(#fade-l)" stroke-width="1"/>
+  <circle class="pulse" cx="598" cy="14" r="2" fill="#D4D4D4"/>
+  <circle class="pulse-delay" cx="582" cy="14" r="1.2" fill="#888888"/>
+  <circle class="pulse-delay" cx="614" cy="14" r="1.2" fill="#888888"/>
+</svg>

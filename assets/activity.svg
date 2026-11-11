@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="128" viewBox="0 0 1200 128" role="img" aria-labelledby="title">
+  <title id="title">GitHub contribution activity — stylized</title>
+  <style>
+    .bar { animation: grow 1.5s ease-out both; }
+    .bar:nth-child(2) { animation-delay:.05s }
+    .bar:nth-child(3) { animation-delay:.1s }
+    .bar:nth-child(4) { animation-delay:.15s }
+    .bar:nth-child(5) { animation-delay:.2s }
+    .bar:nth-child(6) { animation-delay:.25s }
+    .bar:nth-child(7) { animation-delay:.3s }
+    .bar:nth-child(8) { animation-delay:.35s }
+    .bar:nth-child(9) { animation-delay:.4s }
+    .bar:nth-child(10) { animation-delay:.45s }
+    .bar:nth-child(11) { animation-delay:.5s }
+    .bar:nth-child(12) { animation-delay:.55s }
+    .bar:nth-child(13) { animation-delay:.6s }
+    .bar:nth-child(14) { animation-delay:.65s }
+    .bar:nth-child(15) { animation-delay:.7s }
+    .bar:nth-child(16) { animation-delay:.75s }
+    .bar:nth-child(17) { animation-delay:.8s }
+    .bar:nth-child(18) { animation-delay:.85s }
+    .bar:nth-child(19) { animation-delay:.9s }
+    .bar:nth-child(20) { animation-delay:.95s }
+    .bar:nth-child(21) { animation-delay:1s }
+    .bar:nth-child(22) { animation-delay:1.05s }
+    .bar:nth-child(23) { animation-delay:1.1s }
+    .bar:nth-child(24) { animation-delay:1.15s }
+    .shimmer { animation: shimmer 3s 1.5s ease-in-out infinite; }
+    @keyframes grow { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+    @keyframes shimmer { 0%,100% { opacity:.5; } 50% { opacity:.9; } }
+    @media(prefers-reduced-motion:reduce) { .bar,.shimmer { animation:none; } .bar { transform:scaleY(1); } .shimmer { opacity:.7; } }
+    @media(max-width:600px) { .label { display:none; } }
+  </style>
+  <defs>
+    <linearGradient id="barfill" x2="0" y2="1"><stop stop-color="#E5E5E5"/><stop offset="1" stop-color="#555555"/></linearGradient>
+    <linearGradient id="bgfade" x2="1" y2="1"><stop stop-color="#141414"/><stop offset="1" stop-color="#0A0A0A"/></linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="1199" height="127" rx="18" fill="url(#bgfade)" stroke="#2A2A2A"/>
+  <!-- Baseline -->
+  <line x1="80" y1="104" x2="1120" y2="104" stroke="#2A2A2A" stroke-width="1"/>
+  <!-- Activity bars — stylized contribution visualization -->
+  <g fill="url(#barfill)" opacity=".7">
+    <rect class="bar" x="100"  y="72" width="18" height="32" rx="3" style="transform-origin:100px 104px"/>
+    <rect class="bar" x="142"  y="58" width="18" height="46" rx="3" style="transform-origin:142px 104px"/>
+    <rect class="bar" x="184"  y="80" width="18" height="24" rx="3" style="transform-origin:184px 104px"/>
+    <rect class="bar" x="226"  y="44" width="18" height="60" rx="3" style="transform-origin:226px 104px"/>
+    <rect class="bar" x="268"  y="64" width="18" height="40" rx="3" style="transform-origin:268px 104px"/>
+    <rect class="bar" x="310"  y="52" width="18" height="52" rx="3" style="transform-origin:310px 104px"/>
+    <rect class="bar" x="352"  y="76" width="18" height="28" rx="3" style="transform-origin:352px 104px"/>
+    <rect class="bar" x="394"  y="38" width="18" height="66" rx="3" style="transform-origin:394px 104px"/>
+    <rect class="bar" x="436"  y="56" width="18" height="48" rx="3" style="transform-origin:436px 104px"/>
+    <rect class="bar" x="478"  y="68" width="18" height="36" rx="3" style="transform-origin:478px 104px"/>
+    <rect class="bar" x="520"  y="42" width="18" height="62" rx="3" style="transform-origin:520px 104px"/>
+    <rect class="bar" x="562"  y="30" width="18" height="74" rx="3" style="transform-origin:562px 104px"/>
+    <rect class="bar" x="604"  y="50" width="18" height="54" rx="3" style="transform-origin:604px 104px"/>
+    <rect class="bar" x="646"  y="62" width="18" height="42" rx="3" style="transform-origin:646px 104px"/>
+    <rect class="bar" x="688"  y="34" width="18" height="70" rx="3" style="transform-origin:688px 104px"/>
+    <rect class="bar" x="730"  y="54" width="18" height="50" rx="3" style="transform-origin:730px 104px"/>
+    <rect class="bar" x="772"  y="70" width="18" height="34" rx="3" style="transform-origin:772px 104px"/>
+    <rect class="bar" x="814"  y="46" width="18" height="58" rx="3" style="transform-origin:814px 104px"/>
+    <rect class="bar" x="856"  y="60" width="18" height="44" rx="3" style="transform-origin:856px 104px"/>
+    <rect class="bar" x="898"  y="36" width="18" height="68" rx="3" style="transform-origin:898px 104px"/>
+    <rect class="bar" x="940"  y="48" width="18" height="56" rx="3" style="transform-origin:940px 104px"/>
+    <rect class="bar" x="982"  y="66" width="18" height="38" rx="3" style="transform-origin:982px 104px"/>
+    <rect class="bar" x="1024" y="40" width="18" height="64" rx="3" style="transform-origin:1024px 104px"/>
+    <rect class="bar" x="1066" y="28" width="18" height="76" rx="3" style="transform-origin:1066px 104px"/>
+  </g>
+  <!-- Labels -->
+  <text class="shimmer" x="100" y="24" fill="#A3A3A3" font-family="Arial, Helvetica, sans-serif" font-size="13">Building consistently</text>
+  <text class="label" x="1084" y="24" text-anchor="end" fill="#666666" font-family="Arial, Helvetica, sans-serif" font-size="12">@lolesciax</text>
+</svg>
