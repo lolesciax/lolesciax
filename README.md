@@ -29,19 +29,10 @@
 I'm **Leo Lawrence M. Galve**, an Information Technology student and full-stack
 developer. I turn everyday workflows into thoughtful web and mobile experiences.
 
-**Design that feels clear. Systems that work together.**<br>
-From responsive interfaces to APIs and databases, I enjoy connecting the pieces.
-I also explore desktop-inspired interfaces and interactive 3D on the web.
-
-I like taking a messy idea and making it feel simple to use. That means thinking
-through the small things people notice first — clear layouts, useful feedback,
-and smooth experiences on any screen — while making sure the code behind them
-holds up too.
-
-Working across the stack lets me connect those details: how a page looks, how
-the app behaves, and how its data moves. I'm still learning with every project,
-but I care about building things that feel considered, work reliably, and make
-someone's day a little easier.
+**I like making the complicated feel clear.**<br>
+I work across interfaces, APIs, and data to build web and mobile experiences
+that are useful, considered, and easy to navigate. Outside that, I'm drawn to
+desktop-inspired UI and interactive 3D.
 
 <br>
 
@@ -62,38 +53,43 @@ someone's day a little easier.
 
 <h2><a name="tech-stack"></a><img src="./assets/section-stack.svg" alt="The toolkit — Tech stack" width="100%"></h2>
 
-<sub>Interfaces & experiences</sub>
-
-<p>
-  <img src="./assets/badge-react.svg" alt="React" height="28">
-  <img src="./assets/badge-javascript.svg" alt="JavaScript" height="28">
-  <img src="./assets/badge-typescript.svg" alt="TypeScript" height="28">
-  <img src="./assets/badge-html5.svg" alt="HTML5" height="28">
-  <img src="./assets/badge-css.svg" alt="CSS" height="28">
-  <img src="./assets/badge-tailwind.svg" alt="Tailwind CSS" height="28">
-</p>
-
-<sub>APIs & data</sub>
-
-<p>
-  <img src="./assets/badge-nodejs.svg" alt="Node.js" height="28">
-  <img src="./assets/badge-express.svg" alt="Express" height="28">
-  <img src="./assets/badge-python.svg" alt="Python" height="28">
-  <img src="./assets/badge-flask.svg" alt="Flask" height="28">
-  <img src="./assets/badge-postgresql.svg" alt="PostgreSQL" height="28">
-  <img src="./assets/badge-supabase.svg" alt="Supabase" height="28">
-  <img src="./assets/badge-mongodb.svg" alt="MongoDB" height="28">
-</p>
-
-<sub>Mobile, motion & workflow</sub>
-
-<p>
-  <img src="./assets/badge-flutter.svg" alt="Flutter" height="28">
-  <img src="./assets/badge-dart.svg" alt="Dart" height="28">
-  <img src="./assets/badge-threejs.svg" alt="Three.js" height="28">
-  <img src="./assets/badge-git.svg" alt="Git" height="28">
-  <img src="./assets/badge-github.svg" alt="GitHub" height="28">
-</p>
+<table>
+  <tbody>
+    <tr>
+      <td width="25%" valign="middle"><sub>01 / INTERFACE</sub><br><strong>Interfaces &amp; experiences</strong></td>
+      <td valign="middle">
+        <img src="./assets/badge-react.svg" alt="React" height="28">
+        <img src="./assets/badge-javascript.svg" alt="JavaScript" height="28">
+        <img src="./assets/badge-typescript.svg" alt="TypeScript" height="28">
+        <img src="./assets/badge-html5.svg" alt="HTML5" height="28">
+        <img src="./assets/badge-css.svg" alt="CSS" height="28">
+        <img src="./assets/badge-tailwind.svg" alt="Tailwind CSS" height="28">
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" valign="middle"><sub>02 / ENGINEERING</sub><br><strong>APIs &amp; data</strong></td>
+      <td valign="middle">
+        <img src="./assets/badge-nodejs.svg" alt="Node.js" height="28">
+        <img src="./assets/badge-express.svg" alt="Express" height="28">
+        <img src="./assets/badge-python.svg" alt="Python" height="28">
+        <img src="./assets/badge-flask.svg" alt="Flask" height="28">
+        <img src="./assets/badge-postgresql.svg" alt="PostgreSQL" height="28">
+        <img src="./assets/badge-supabase.svg" alt="Supabase" height="28">
+        <img src="./assets/badge-mongodb.svg" alt="MongoDB" height="28">
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" valign="middle"><sub>03 / MOBILE + MOTION</sub><br><strong>Mobile &amp; workflow</strong></td>
+      <td valign="middle">
+        <img src="./assets/badge-flutter.svg" alt="Flutter" height="28">
+        <img src="./assets/badge-dart.svg" alt="Dart" height="28">
+        <img src="./assets/badge-threejs.svg" alt="Three.js" height="28">
+        <img src="./assets/badge-git.svg" alt="Git" height="28">
+        <img src="./assets/badge-github.svg" alt="GitHub" height="28">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
