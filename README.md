@@ -38,8 +38,6 @@ software that solves real needs and works reliably every day.
 
 <br>
 
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
-
 <h2><a name="tech-stack"></a><img src="./assets/section-stack.svg" alt="The toolkit — Tech stack" width="100%"></h2>
 
 <sub>Interfaces &amp; experiences</sub>
@@ -77,8 +75,6 @@ software that solves real needs and works reliably every day.
 
 <br>
 
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
-
 <h2><a name="selected-work"></a><img src="./assets/section-work.svg" alt="Selected work" width="100%"></h2>
 
 **SMaRT-PDM** · Scholarship Management and Records Tracking<br>
@@ -89,8 +85,6 @@ software that solves real needs and works reliably every day.
 <p><img src="./assets/project-app.svg" alt="SMaRT-PDM App — An Android companion for student scholarship applications and renewals." width="100%"></p>
 
 <br>
-
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
 <h2><a name="beyond-the-code"></a><img src="./assets/section-portfolios.svg" alt="Find your way in — Portfolios and links" width="100%"></h2>
 
