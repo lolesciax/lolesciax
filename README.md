@@ -106,6 +106,4 @@ software that solves real needs and works reliably every day.
 
 <a href="mailto:galveleolawrence@gmail.com"><img src="./profile-footer.svg" alt="Let's build something useful. Open to collaboration and opportunities to grow. Email galveleolawrence@gmail.com." width="100%"></a>
 
-<sub><a href="mailto:galveleolawrence@gmail.com">galveleolawrence@gmail.com</a> &nbsp; / &nbsp; <a href="https://github.com/lolesciax">@lolesciax on GitHub</a></sub>
-
 </div>
