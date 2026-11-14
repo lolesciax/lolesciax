@@ -29,9 +29,7 @@ I'm **Leo Lawrence M. Galve**, an Information Technology student and full-stack
 developer focused on building web and mobile products that make everyday work
 clearer and easier.
 
-**Clear interfaces. Reliable systems. Useful software.**<br>
-I build clear, responsive interfaces and dependable systems for web and mobile.
-From the screens people use to the APIs and data that support them, I enjoy
+I build clear, responsive interfaces and dependable systems for web and mobile. I enjoy
 bringing each part together into a complete, easy-to-use product. I pay close
 attention to the details, keep the experience consistent, and aim to make
 software that solves real needs and works reliably every day.
