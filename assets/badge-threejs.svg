@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="93" height="32" viewBox="0 0 93 32" role="img" aria-labelledby="badge-title">
-  <title id="badge-title">Three.js</title>
-  <rect x=".5" y=".5" width="92" height="31" rx="7" fill="#161B22" stroke="#30363D"/>
-  <rect x="7" y="6" width="20" height="20" rx="5" fill="#F0F6FC"/>
-  <text x="17" y="20" text-anchor="middle" fill="#0D1117" font-family="Segoe UI, Arial, sans-serif" font-size="8" font-weight="700">3D</text>
-  <text x="36" y="21" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Three.js</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="32" viewBox="0 0 108 32" role="img" aria-label="Three.js"><style>svg{transition:filter .2s ease}svg:hover{filter:brightness(1.35)}@media(prefers-reduced-motion:reduce){svg{transition:none}}</style><rect width="108" height="32" rx="6" fill="#181818" stroke="#333333" stroke-width=".5"/><g transform="translate(0 2)"><g transform="translate(10 5)" fill="none" stroke="#D4D4D4" stroke-width=".8"><path d="M3 16L10 3L17 16Z"/><path d="M6.5 10L10 3L13.5 10Z" stroke-opacity=".5"/></g><text x="30" y="18" fill="#D4D4D4" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600">Three.js</text></g></svg>
