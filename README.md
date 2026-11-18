@@ -12,6 +12,8 @@
   <a href="mailto:galveleolawrence@gmail.com"><img src="./assets/intro-contact.svg" alt="Say hello" width="118" height="34"></a>
 </p>
 
+<p><img src="https://komarev.com/ghpvc/?username=lolesciax&style=flat-square&color=525252&label=PROFILE+VIEWS" alt="Profile views"></p>
+
 <p>
   <a href="#about"><img src="./assets/nav-about.svg" alt="About" width="58" height="24"></a>
   <a href="#tech-stack"><img src="./assets/nav-stack.svg" alt="Tech stack" width="80" height="24"></a>
