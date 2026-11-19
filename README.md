@@ -9,7 +9,7 @@
 <p>
   <a href="https://lawrencegalve.vercel.app"><img src="./assets/intro-portfolio.svg" alt="Portfolio" width="128" height="34"></a>&nbsp;
   <a href="https://leolawrencegalve.vercel.app"><img src="./assets/intro-desktop.svg" alt="Desktop experience" width="180" height="34"></a>&nbsp;
-  <a href="mailto:galveleolawrence@gmail.com"><img src="./assets/intro-contact.svg" alt="Say hello" width="118" height="34"></a>
+  <a href="mailto:lawrencegalve.dev@gmail.com"><img src="./assets/intro-contact.svg" alt="Say hello" width="118" height="34"></a>
 </p>
 
 <p><img src="https://komarev.com/ghpvc/?username=lolesciax&style=flat-square&color=525252&label=PROFILE+VIEWS" alt="Profile views"></p>
