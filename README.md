@@ -104,6 +104,6 @@ software that solves real needs and works reliably every day.
 
 <div align="center">
 
-<a href="mailto:galveleolawrence@gmail.com"><img src="./profile-footer.svg" alt="Let's build something useful. Open to collaboration and opportunities to grow. Email galveleolawrence@gmail.com." width="100%"></a>
+<a href="mailto:lawrencegalve.dev@gmail.com"><img src="./profile-footer.svg" alt="Let's build something useful. Open to collaboration and opportunities to grow. Email lawrencegalve.dev@gmail.com." width="100%"></a>
 
 </div>
