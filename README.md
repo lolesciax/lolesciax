@@ -44,11 +44,11 @@ software that solves real needs and works reliably every day.
 
 <p>
   <img src="./assets/badge-react.svg" alt="React" height="32">&nbsp;&nbsp;
-  <img src="./assets/badge-javascript.svg" alt="JavaScript" height="32">&nbsp;&nbsp;
   <img src="./assets/badge-typescript.svg" alt="TypeScript" height="32">&nbsp;&nbsp;
+  <img src="./assets/badge-tailwind.svg" alt="Tailwind CSS" height="32">
   <img src="./assets/badge-html5.svg" alt="HTML5" height="32">&nbsp;&nbsp;
   <img src="./assets/badge-css.svg" alt="CSS" height="32">&nbsp;&nbsp;
-  <img src="./assets/badge-tailwind.svg" alt="Tailwind CSS" height="32">
+  <img src="./assets/badge-javascript.svg" alt="JavaScript" height="32">&nbsp;&nbsp;
 </p>
 
 <sub>APIs &amp; data</sub>
