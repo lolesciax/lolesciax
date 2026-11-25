@@ -58,9 +58,9 @@ software that solves real needs and works reliably every day.
   <img src="./assets/badge-express.svg" alt="Express" height="32">&nbsp;&nbsp;
   <img src="./assets/badge-python.svg" alt="Python" height="32">&nbsp;&nbsp;
   <img src="./assets/badge-flask.svg" alt="Flask" height="32">&nbsp;&nbsp;
-  <img src="./assets/badge-postgresql.svg" alt="PostgreSQL" height="32">&nbsp;&nbsp;
   <img src="./assets/badge-supabase.svg" alt="Supabase" height="32">&nbsp;&nbsp;
   <img src="./assets/badge-mongodb.svg" alt="MongoDB" height="32">
+  <img src="./assets/badge-postgresql.svg" alt="PostgreSQL" height="32">&nbsp;&nbsp;
 </p>
 
 <sub>Mobile, motion &amp; workflow</sub>
@@ -68,9 +68,9 @@ software that solves real needs and works reliably every day.
 <p>
   <img src="./assets/badge-flutter.svg" alt="Flutter" height="32">&nbsp;&nbsp;
   <img src="./assets/badge-dart.svg" alt="Dart" height="32">&nbsp;&nbsp;
-  <img src="./assets/badge-threejs.svg" alt="Three.js" height="32">&nbsp;&nbsp;
   <img src="./assets/badge-git.svg" alt="Git" height="32">&nbsp;&nbsp;
   <img src="./assets/badge-github.svg" alt="GitHub" height="32">
+  <img src="./assets/badge-threejs.svg" alt="Three.js" height="32">&nbsp;&nbsp;
 </p>
 
 <br>
