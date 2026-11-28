@@ -1,6 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="108" viewBox="0 0 1200 108" role="img" aria-labelledby="title"><title id="title">Cloudflare portfolio — A separate design and experience</title><style>@media(max-width:600px){.domain{display:none}.label{font-size:28px}}</style>
- <rect x=".5" y=".5" width="1199" height="107" rx="17" fill="#111111" stroke="#333333"/>
- <g transform="translate(35 32)" fill="none" stroke="#B8B8B8" stroke-width="1.8"><path d="M8 29H43A10 10 0 0043 9A16 16 0 0013 10A10 10 0 008 29Z"/></g>
- <text class="label" x="112" y="47" fill="#E5E5E5" font-family="Arial" font-size="22" font-weight="600">A fresh look at my work.</text>
- <text class="label" x="112" y="77" fill="#969696" font-family="Arial" font-size="17">A new portfolio on Cloudflare Workers</text>
- <text class="domain" x="1130" y="62" text-anchor="end" fill="#A3A3A3" font-family="Arial" font-size="18">portfolio.laureinzogalve.workers.dev ↗</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title"><title id="title">Cloudflare portfolio — A fresh look at my work.</title><style>@media(max-width:600px){.illustration,.arrow,.domain{display:none}.copy{transform:translate(-250px,0) scale(1.22)}.title{font-size:41px}.subtitle{font-size:32px}.label{font-size:23px}}</style><defs>
+ <linearGradient id="base" x2="1" y2="1"><stop stop-color="#1B1B1B"/><stop offset="1" stop-color="#080808"/></linearGradient>
+ <radialGradient id="light"><stop stop-color="#FFFFFF" stop-opacity=".085"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
+</defs>
+ <rect x=".5" y=".5" width="1199" height="209" rx="22" fill="url(#base)" stroke="#3B3B3B"/>
+ <g class="illustration"><g transform="translate(38 35)"><rect width="211" height="133" rx="10" fill="#151515" stroke="#575757"/><path d="M0 22H211" stroke="#414141"/><circle cx="14" cy="11" r="2.5" fill="#888888"/><circle cx="23" cy="11" r="2.5" fill="#666666"/><path d="M78 90H135A15 15 0 00135 60A25 25 0 0088 60A15 15 0 0078 90Z" fill="#252525" stroke="#B8B8B8" stroke-width="2"/><path d="M106 69V82M99 76L106 69L113 76" fill="none" stroke="#E5E5E5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M75 107H137" stroke="#666666" stroke-width="3" stroke-linecap="round"/></g></g>
+ <g transform="translate(292 0)"><g class="copy" font-family="Arial, Helvetica, sans-serif">
+ <text class="label" x="0" y="42" fill="#A3A3A3" font-size="16">Cloudflare portfolio</text>
+ <text class="title" x="-1" y="90" fill="#F0F0F0" font-size="37" font-weight="700" letter-spacing="-1">A fresh look at my work.</text>
+ <text class="subtitle" x="0" y="128" fill="#B8B8B8" font-size="22">A new design. A different portfolio experience.</text>
+ <text class="domain" x="0" y="172" fill="#929292" font-size="16">portfolio.laureinzogalve.workers.dev</text>
+ </g></g>
+ <circle class="arrow" cx="1119" cy="105" r="30" fill="#252525" stroke="#555555"/>
+ <path class="arrow" d="M1109 115L1129 95M1110 95H1129V114" fill="none" stroke="#E5E5E5" stroke-width="2" stroke-linecap="round"/></svg>
