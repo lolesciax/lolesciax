@@ -97,7 +97,7 @@ software that solves real needs and works reliably every day.
 </p>
 
 <p>
-  <a href="https://portfolio.laureinzogalve.workers.dev"><img src="./assets/portfolio-cloudflare.svg" alt="Explore my new Cloudflare portfolio — A separate design and experience." width="100%"></a>
+  <a href="https://portfolio.laureinzogalve.workers.dev"><img src="./assets/portfolio-cloudflare-card.svg" alt="Explore my new Cloudflare portfolio — A separate design and experience." width="100%"></a>
 </p>
 
 <br>
