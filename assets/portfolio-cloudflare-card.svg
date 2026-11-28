@@ -8,7 +8,7 @@
  <text class="label" x="0" y="42" fill="#A3A3A3" font-size="16">Cloudflare portfolio</text>
  <text class="title" x="-1" y="90" fill="#F0F0F0" font-size="37" font-weight="700" letter-spacing="-1">A fresh look at my work.</text>
  <text class="subtitle" x="0" y="128" fill="#B8B8B8" font-size="22">A new design. A different portfolio experience.</text>
- <text class="domain" x="0" y="172" fill="#929292" font-size="16">portfolio.laureinzogalve.workers.dev</text>
+ <text class="domain" x="0" y="172" fill="#929292" font-size="16">portfolio.leolawrencegalve.workers.dev</text>
  </g></g>
  <circle class="arrow" cx="1119" cy="105" r="30" fill="#252525" stroke="#555555"/>
  <path class="arrow" d="M1109 115L1129 95M1110 95H1129V114" fill="none" stroke="#E5E5E5" stroke-width="2" stroke-linecap="round"/></svg>
